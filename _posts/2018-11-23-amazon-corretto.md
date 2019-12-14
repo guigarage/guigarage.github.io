@@ -10,7 +10,7 @@ header:
   text: Amazon Corretto
   image: sample
 ---
-{% include elements/block.html text="This post was originally posted at [dev.karakun.com](dev.karakun.com)" %}
+{% include elements/block.html text="This post was originally posted at [dev.karakun.com](https://dev.karakun.com)" %}
 
 Based on the changes that Oracle announced a year ago about [the new release train and licences of Java](/java/2018/06/25/java-releases.html) and the Oracle Java distributions it was completely obvious and only a matter of time when additional big players start to distribute custom OpenJDK builds. Some companies like RedHat or IBM did this already for some years to provide custom Java support for existing enterprise customers. The first big player that offered a more general OpenJDK build with custom support was Azul.
 

@@ -9,7 +9,7 @@ header:
   text: The road to Java 11
   image: sample
 ---
-{% include elements/block.html text="This post was originally posted at [dev.karakun.com](dev.karakun.com)" %}
+{% include elements/block.html text="This post was originally posted at [dev.karakun.com](https://dev.karakun.com)" %}
 
 The next version of Java (Java 11) will be released on the 25th September 2018. Several developers and companies plan to switch from Java 8 to Java 11 within the next month. Since Java 9 and Java 10 were the 2 first version that are based on the new release train of Oracle a lot of people assume a LTS (Long term support) release of Java 11 by Oracle that they can easily use the next year in production.
 

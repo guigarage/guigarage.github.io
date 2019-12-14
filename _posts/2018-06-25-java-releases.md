@@ -12,7 +12,7 @@ header:
   image: sample
 ---
 
-{% include elements/block.html text="This post was originally posted at [dev.karakun.com](dev.karakun.com)" %}
+{% include elements/block.html text="This post was originally posted at [dev.karakun.com](https://dev.karakun.com)" %}
 
 This year many changes are introduced to the Java release and support model that is provided by Oracle. Because of this many Java developers have questions on how this changes will affect their future work and what strategy should be used when thinking about Java version updates in applications. One concern that is often discussed but remains mostly unanswered is if companies will need to pay for Java in the near future.
 

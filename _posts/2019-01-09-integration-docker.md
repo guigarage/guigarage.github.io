@@ -10,7 +10,7 @@ header:
   text: Integration tests with Docker
   image: sample
 ---
-{% include elements/block.html text="This post was originally posted at [dev.karakun.com](dev.karakun.com)" %}
+{% include elements/block.html text="This post was originally posted at [dev.karakun.com](https://dev.karakun.com)" %}
 
 When writing software that is based on [JavaEE / JakartaEE](https://jakarta.ee) you have one big benefit: All APIs are specified and therefore your software will run on any application server 🙂
 

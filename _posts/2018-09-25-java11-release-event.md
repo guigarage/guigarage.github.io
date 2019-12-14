@@ -12,7 +12,7 @@ header:
   text: The road to Java 11
   image: sample
 ---
-{% include elements/block.html text="This post was originally posted at [dev.karakun.com](dev.karakun.com)" %}
+{% include elements/block.html text="This post was originally posted at [dev.karakun.com](https://dev.karakun.com)" %}
 
 Together with Oracle and [Heise](https://www.heise.de/developer/meldung/Jetzt-vormerken-Launch-Event-zu-Java-11-4168709.html) we will do a Java 11 release event at September 25th, 2018. This event will be followed by Hendrik Ebbers and Michael Heinrichs. There will be a YouTube Live Stream from 6 pm UTC+2. We are looking forward to many viewers!
 
