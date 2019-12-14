@@ -7,10 +7,13 @@ layout: default
         {% capture url1 %}
           {% link pages/beginn-with-javafx.md %}
         {% endcapture %}
-        {%- include blog/highlight-card.html image="highlight-9" title="Get started with JavaFX" url=url1 -%}
+        {%- include blog/highlight-card.html image="adopt" title="How AdoptOpenJDK tests JVMs" url=url1 -%}
       </div>
       <div class="column is-one-quarter">
-        {%- include blog/highlight-card.html image="highlight-4" title="How to create a blog with Jekyll" -%}
+        {% capture url2 %}
+          {% link pages/beginn-with-javafx.md %}
+        {% endcapture %}
+        {%- include blog/highlight-card.html image="highlight-4" title="Leraning JavaFX" url=url2 -%}
       </div>
       <div class="column is-one-quarter">
         {%- include blog/highlight-card.html image="highlight-8" title="TypeScript VS Java" -%}

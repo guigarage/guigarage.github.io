@@ -31,16 +31,7 @@ I created a 2 hour online course for [Parleys](https://www.parleys.com/course/ja
 
 ## JavaFX Training
 
-If you want to learn JavaFX in more deep the Canoo JavaFX training will be perfect for you. Together with [Michael Heinrichs](https://twitter.com/net0pyr) (Former technical lead of JavaFX core components) I prepared different JavaFX courses that will fit for beginners or developers with specific needs. Here is an overview of the different courses that we offer:
-
-* 3 days "JavaFX for Business Application"
-* 1 day "JavaFX for Swing Applications"
-* 1 day "JavaFX for sophisticated user interfaces"
-* 1 day "JavaFX Enterprise with OpenDolphin"
-
-The training can be done in Basel or on site and in addition we can prepare an individual consultancy and training based on your needs.
-
-![canoo-logo](/assets/posts/guigarage-legacy/canoo-logo.png)
+Each year I offer JavaFX related trainings at the [JFX Days](https://www.jfx-days.com) in Zurich.
 
 ## JavaFX Books
 
