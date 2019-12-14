@@ -1,0 +1,20 @@
+$main-color: #d48d39;
+$dark-green: #d48d39;
+$main-dark-background: #171717;
+$border-radius: 0.5rem;
+
+$dark: #171717;
+$fa-font-path: 'fonts/';
+
+@import "bulma/utilities/initial-variables";
+
+// Overwrite Bulma default settings
+$primary: $main-color;
+$link: $main-color;
+$navbar-background-color: $main-dark-background;
+$navbar-item-active-color: $main-color;
+$navbar-item-hover-background-color: transparent;
+$navbar-item-color: $white;
+
+// .container gap
+$gap: 24px;

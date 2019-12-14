@@ -1,0 +1,30 @@
+---
+title: Search
+layout: article
+hidden: true
+header:
+  image: sample
+  text: Search result
+---
+<!-- Html Elements for Search -->
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="search...">
+    <ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="{{ site.url }}/assets/js/simple-jekyll-search.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/pages/search.json',
+    limit: 100
+})
+</script>
+
+<!-- see https://blog.webjeda.com/instant-jekyll-search/ -->
+<!-- see https://github.com/christian-fei/Simple-Jekyll-Search -->
+

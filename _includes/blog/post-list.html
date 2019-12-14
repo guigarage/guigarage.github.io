@@ -1,0 +1,4 @@
+{%- for post in paginator.posts -%}
+    {%- include blog/post.html post=post -%}
+{%- endfor -%}
+{%- include blog/pagination.html -%}

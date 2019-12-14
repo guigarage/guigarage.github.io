@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class="section highlight-section is-hidden-mobile">
+  <div class="columns is-variable is-2">
+      <div class="column is-one-quarter">
+        {% capture url1 %}
+          {% link pages/beginn-with-javafx.md %}
+        {% endcapture %}
+        {%- include blog/highlight-card.html image="highlight-9" title="Get started with JavaFX" url=url1 -%}
+      </div>
+      <div class="column is-one-quarter">
+        {%- include blog/highlight-card.html image="highlight-4" title="How to create a blog with Jekyll" -%}
+      </div>
+      <div class="column is-one-quarter">
+        {%- include blog/highlight-card.html image="highlight-8" title="TypeScript VS Java" -%}
+      </div>
+      <div class="column is-one-quarter">
+        {%- include blog/highlight-card.html image="highlight-12" title="JavaFX support in different JDKs" -%}
+      </div>
+  </div>
+</div>
+<div class="section post-list-section">
+  <div class="columns is-variable is-2">
+    <div class="column is-three-quarters">
+      {%- include blog/post-list.html -%}
+    </div>
+    <div class="column is-hidden-mobile">
+        {%- include blog/sidebar.html -%}
+    </div>
+  </div>
+</div>
+  

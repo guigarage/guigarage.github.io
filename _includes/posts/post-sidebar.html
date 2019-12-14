@@ -1,0 +1,21 @@
+<div class="post-sidebar">
+    {%- if author -%}
+        <div class="post-author info">
+            <h5>Author</h5>
+            {%- if author.avatar -%}
+                <p><img src="/assets/avatars/{{ author.avatar }}.png" alt="avatar"/>{{ author.description }}</p>
+            {%- else -%}
+                <p><img src="/assets/avatars/unknown.png" alt="avatar"/>{{ author.description }}</p>
+            {%- endif -%}
+        </div>
+    {%- endif -%}
+    {%- if page.categories -%}
+        <div class="post-tags info">
+            <ul>
+                {% for category in page.categories %}
+                    <li>{{ category }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {%- endif -%}
+</div>

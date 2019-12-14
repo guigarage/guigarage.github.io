@@ -1,0 +1,10 @@
+{%- assign page_image = page.header.image | default: "/assets/pageHeaders/default.jpg" -%}
+<div class="page-image" style="background-image: url('/assets/pageHeaders/{{ page_image }}.png')">
+  <div class="header-image-overlay">
+    <div class="section header-text-wrapper">
+      <div class="header-text">
+        {{ page.header.text }}
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,25 @@
+title: GuiGarage
+email: hendrik.ebbers@web.com
+description: The GuiGarage blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.guigarage.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: hendrikEbbers
+github_username:  hendrikEbbers
+
+permalink: /:year/:month/:day/:title.html
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+sass:
+  style: compressed
+
+collections:
+  people:
+    output: true
+
+paginate: 6
+paginate_path: /page:num/

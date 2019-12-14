@@ -1,0 +1,16 @@
+---
+---
+[
+  {%- for post in site.posts -%}
+    {%- if post.title != "Assertions and Rules in MarvinFX" -%}
+      {
+        "title"    : "{{ post.title | strip_html | strip_newlines | escape }}",
+        "url"      : "{{ site.baseurl }}{{ post.url }}",
+        "category" : "{{post.categories | join: ', ' | strip_html | strip_newlines | escape }}",
+        "date"     : "{{ post.date }}",
+        "excerpt"  : "{{ post.excerpt | strip_html | strip_newlines | escape }}",
+        "content"  : "{{post.content | strip_html | strip_newlines | escape }}"
+      } {%- unless forloop.last -%},{%- endunless -%}
+    {%- endif -%} 
+  {%- endfor -%}
+]

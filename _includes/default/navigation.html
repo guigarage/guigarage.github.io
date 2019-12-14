@@ -1,0 +1,61 @@
+<nav class="navbar" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item page-title" rel="author" href="{{ "/" | relative_url }}">GuiGarage<span class="blink-cursor">_</span></a>
+      <a role="button" class="navbar-burger" data-target="main-menu" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div class="navbar-menu" id="main-menu">
+      {% if page.title == my_page.title %}
+        <a class="navbar-item is-active" href="{{ "/" | relative_url }}">Home</a>
+      {% else %}
+        <a class="navbar-item" href="{{ "/" | relative_url }}">Home</a>
+      {% endif %}
+    
+      {% assign sortedPaths = site.pages | sort: 'order'  %}
+      {% for my_page in sortedPaths %}
+        {%- unless sitePage.url contains "/page" -%}
+          {%- if my_page.hidden != true -%}
+            {%- if my_page.title and my_page.url != "/" and my_page.nav.top != false -%}
+              {% if page.title == my_page.title %}
+                <a class="navbar-item is-active" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {% else %}
+                <a class="navbar-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {% endif %}
+            {%- endif -%}
+          {%- endif -%}
+        {%- endunless -%}
+      {%- endfor -%}
+    </div>
+  </div>  
+</nav>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+
+    // Get all "navbar-burger" elements
+    var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+    
+    // Check if there are any navbar burgers
+    if ($navbarBurgers.length > 0) {
+    
+      // Add a click event on each of them
+      $navbarBurgers.forEach(function ($el) {
+        $el.addEventListener('click', function () {
+    
+          // Get the target from the "data-target" attribute
+          var target = $el.dataset.target;
+          var $target = document.getElementById(target);
+    
+          // Toggle the class on both the "navbar-burger" and the "navbar-menu"
+          $el.classList.toggle('is-active');
+          $target.classList.toggle('is-active');
+    
+        });
+      });
+    }
+  });
+</script>
+      

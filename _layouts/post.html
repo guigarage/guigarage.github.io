@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% assign author = site.data.people | where:'name', page.author | first %}
+<div class="section">
+  <div class="columns is-variable is-2">
+    <div class="column is-three-quarters">
+        {% assign title = page.title %}
+        {% assign date = page.date %}
+        {%- include posts/post-content.html title=title content=content date=date author=author -%}
+        {%- include posts/disqus_comments.html -%}
+    </div>
+    <div class="column"></div>
+      {%- include posts/post-sidebar.html author=author -%}
+    </div>
+  </div>
+</div>
