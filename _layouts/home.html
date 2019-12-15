@@ -19,7 +19,10 @@ layout: default
         {%- include blog/highlight-card.html image="highlight-8" title="TypeScript VS Java" -%}
       </div>
       <div class="column is-one-quarter">
-        {%- include blog/highlight-card.html image="highlight-12" title="JavaFX support in different JDKs" -%}
+        {% capture url4 %}
+          {% post_url 2019-12-15-javafx-support %}
+        {% endcapture %}
+        {%- include blog/highlight-card.html image="highlight-12" title="The state of JavaFX 8 support" url=url4 -%}
       </div>
   </div>
 </div>

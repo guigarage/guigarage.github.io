@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  'TODO'
+title:  'The state of JavaFX 8 support'
 author: hendrik
 featuredImage: sample-2
-excerpt: 'TODO'
+excerpt: 'Starting with JavaFX 11 the ui toolkit can be easily added as a dependency to your Java project. Sadly not all developers can already use Java 11 and must stay on JavaFX 8. In this post I will have a look at Java distributions that support JavaFX 8.'
 categories: [Java, JavaFX]
 header:
-  text: TODO
+  text: The state of JavaFX 8 support
   image: sample
 ---
 A lot of people asked the [AdoptOpenJDK community Slack channel](https://adoptopenjdk.net/slack.html) why JavaFX is not part of the AdoptOpenJDK builds. This article should give an overview of the current state of JavaFX 8 and shows why it sadly won’t be a good choose for AdoptOpenJDK to integrate JavaFX in the Java 8 builds. 
