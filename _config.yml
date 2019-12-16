@@ -11,7 +11,7 @@ permalink: /:year/:month/:day/:title.html
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-paginate
 
 sass:
