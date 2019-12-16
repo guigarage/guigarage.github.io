@@ -51,6 +51,8 @@ p {
 // General page components
 .navbar {
     min-height: 4.8em;
+    padding-left: 1em;
+    padding-right: 1em;
     @include mobile {
         min-height: 1em;
         padding-left: 1em;
