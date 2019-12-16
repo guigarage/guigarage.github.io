@@ -51,6 +51,8 @@ p {
 // General page components
 .navbar {
     min-height: 4.8em;
+    padding-left: 1em;
+    padding-right: 1em;
     @include mobile {
         min-height: 1em;
         padding-left: 1em;
@@ -65,17 +67,6 @@ p {
         font-size: 1.5em;
         color: $white;
         font-family: 'Encode Sans', sans-serif;
-        > span {
-            padding-right: 0.3em;
-        }
-    }
-    .blink-cursor {
-        animation: blink-animation 1s steps(5, start) infinite;
-    }
-    @keyframes blink-animation {
-        to {
-            visibility: hidden;
-        }
     }
 }
 

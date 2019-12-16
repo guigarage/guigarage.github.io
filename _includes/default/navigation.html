@@ -1,14 +1,14 @@
 <nav class="navbar" aria-label="main navigation">
-  <div class="container">
-    <div class="navbar-brand">
-      <a class="navbar-item page-title" rel="author" href="{{ "/" | relative_url }}">GuiGarage<span class="blink-cursor">_</span></a>
-      <a role="button" class="navbar-burger" data-target="main-menu" aria-label="menu" aria-expanded="false">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-    <div class="navbar-menu" id="main-menu">
+  <div class="navbar-brand">
+    <a class="navbar-item page-title" href="{{ "/" | relative_url }}">GuiGarage</a>
+    <a role="button" class="navbar-burger" data-target="main-menu" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu" id="main-menu">
+    <div class="navbar-start">
       {% if page.title == my_page.title %}
         <a class="navbar-item is-active" href="{{ "/" | relative_url }}">Home</a>
       {% else %}
@@ -30,7 +30,14 @@
         {%- endunless -%}
       {%- endfor -%}
     </div>
-  </div>  
+    <div class="navbar-end">
+      <div class="navbar-item">
+        <span class="icon is-medium"><i class="fab fa-lg fa-github"></i></span>
+        <span class="icon is-medium"><i class="fab fa-lg fa-twitter"></i></span>
+        <span class="icon is-medium"><i class="fab fa-lg fa-youtube"></i></span>
+      </div>
+    </div>
+  </div>
 </nav>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
