@@ -3,7 +3,7 @@ title: 'Talk at CeBIT TV studio'
 layout: post
 author: hendrik
 categories: [General]
-excerpt: 'TODO'
+excerpt: 'This summer I gave a talk at the CeBit TV studio. The talk was about software integration for small businesses.'
 featuredImage: sample-5
 permalink: '2011/08/talk-at-cebit-tv-studio/'
 header:

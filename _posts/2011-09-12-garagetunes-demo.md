@@ -3,7 +3,7 @@ title: 'GarageTunes demo'
 layout: post
 author: hendrik
 categories: [Swing]
-excerpt: 'TODO'
+excerpt: 'I created a cool new demo for JGrid.'
 featuredImage: sample-8
 permalink: '2011/09/garagetunes-demo/'
 header:

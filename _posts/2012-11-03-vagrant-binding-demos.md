@@ -3,7 +3,7 @@ title: 'Vagrant-Binding-Demos'
 layout: post
 author: hendrik
 categories: [Vagrant-Binding]
-excerpt: 'TODO'
+excerpt: 'I created several demos to show the usage of Vagrant-Binding.'
 featuredImage: sample-9
 permalink: '2012/11/vagrant-binding-demos/'
 header:

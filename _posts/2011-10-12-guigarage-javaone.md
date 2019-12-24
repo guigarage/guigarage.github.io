@@ -3,7 +3,7 @@ title: 'GuiGarage @ JavaOne'
 layout: post
 author: hendrik
 categories: [General]
-excerpt: 'TODO'
+excerpt: 'The first appereance of Guigarage at JavaOne'
 featuredImage: sample-5
 permalink: '2011/10/guigarage-javaone/'
 header:

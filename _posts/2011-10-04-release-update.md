@@ -3,7 +3,7 @@ title: 'Release & Update'
 layout: post
 author: hendrik
 categories: [General]
-excerpt: 'TODO'
+excerpt: 'Several updates for my Swing related libraries.'
 featuredImage: sample-4
 permalink: '2011/10/release-update/'
 header:

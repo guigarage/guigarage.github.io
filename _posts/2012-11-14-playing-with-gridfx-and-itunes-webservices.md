@@ -3,7 +3,7 @@ title: 'Playing with GridFX and iTunes Webservices'
 layout: post
 author: hendrik
 categories: [JavaFX]
-excerpt: 'TODO'
+excerpt: 'I created some new samples for GridFX'
 featuredImage: sample-1
 permalink: '2012/11/playing-with-gridfx-and-itunes-webservices/'
 header:

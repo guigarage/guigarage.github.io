@@ -3,7 +3,7 @@ title: 'JGridFX First Demo'
 layout: post
 author: hendrik
 categories: [JavaFX]
-excerpt: 'TODO'
+excerpt: 'This is the first demo of GridFX - the successor of JGrid.'
 featuredImage: sample-10
 permalink: '2012/11/jgridfx-first-demo/'
 header:

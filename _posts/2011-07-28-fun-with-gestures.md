@@ -3,7 +3,7 @@ title: 'Fun with gestures'
 layout: post
 author: hendrik
 categories: [General]
-excerpt: 'TODO'
+excerpt: 'Apple added a listener based API for multitouch gestures to their eawt package. So you can use pinching and rotation on a multitouch trackpad.'
 featuredImage: sample-3
 permalink: '2011/07/fun-with-gestures/'
 header:
