@@ -279,6 +279,11 @@ p {
         img.image-two-third-width {
             max-width: 66%;
         }
+        img.image-in-text {
+            padding: 0em;
+            display: inline;
+        }
+
         p:not(:last-child), dl:not(:last-child), ol:not(:last-child), ul:not(:last-child), blockquote:not(:last-child), pre:not(:last-child), table:not(:last-child) {
             margin-bottom: 1em;
         }
