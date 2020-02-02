@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'I recorded a short video in that I introduce the talks and show a short preview of some JavaFX demos'
-featuredImage: sample-7
+featuredImage: java-7
 permalink: '2014/09/javaone-2014-preview/'
 header:
   text: JavaOne 2014 Preview

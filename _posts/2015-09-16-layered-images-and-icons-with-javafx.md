@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX, Layout & UI]
 excerpt: 'Since I have to wait 1 more month I started playing with the new layered icons on the AppleTV I recreated the effect by using JavaFX today.'
-featuredImage: sample-7
+featuredImage: java-7
 permalink: '2015/09/layered-images-and-icons-with-javafx/'
 header:
   text: Layered images and icons with JavaFX

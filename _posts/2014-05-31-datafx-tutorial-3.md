@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'In this tutorial I want to show how a wizard dialog can be created with DataFX.'
-featuredImage: sample-10
+featuredImage: java-10
 permalink: '2014/05/datafx-tutorial-3/'
 header:
   text: DataFX 8 Tutorial

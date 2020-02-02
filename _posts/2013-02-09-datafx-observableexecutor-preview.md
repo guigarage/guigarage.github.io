@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'Since December we are working on a new DataFX version. DataFX will provide a new low level API for multithreading and background tasks in JavaFX.'
-featuredImage: sample-9
+featuredImage: java-9
 permalink: '2013/02/datafx-observableexecutor-preview/'
 header:
   text: ObservableExecutor Preview

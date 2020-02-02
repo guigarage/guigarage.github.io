@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [AquaFX, JavaFX]
 excerpt: 'While planning AquaFX we found a way how to access Mac OS specific icons without using any closed APIs or Mac OS related classes.'
-featuredImage: sample-3
+featuredImage: java-3
 permalink: '2013/03/use-native-aqua-icons-in-javafx/'
 header:
   text: Aqua icons in JavaFX

@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'This is the last tutorial about the basic flow and action API of DataFX.'
-featuredImage: sample-3
+featuredImage: java-3
 permalink: '2014/06/datafx-tutorial-5/'
 header:
   text: DataFX 8 Tutorial

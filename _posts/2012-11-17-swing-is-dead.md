@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX, Swing]
 excerpt: 'JavaFX is the new UI API for Java Desktop applications and since summer it is part of Java 7. In this post I share my thought about the new UI toolkit and what such move means for Swing development'
-featuredImage: sample-4
+featuredImage: java-4
 permalink: '2012/11/swing-is-dead/'
 header:
   text: Swing is dead

@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General]
 excerpt: 'The first appereance of Guigarage at JavaOne'
-featuredImage: sample-5
+featuredImage: java-5
 permalink: '2011/10/guigarage-javaone/'
 header:
   text: GuiGarage @ JavaOne

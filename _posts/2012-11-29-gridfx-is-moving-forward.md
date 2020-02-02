@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'GridFX is official part of JFXtras.'
-featuredImage: sample-8
+featuredImage: java-8
 permalink: '2012/11/gridfx-is-moving-forward/'
 header:
   text: GridFX is moving forward

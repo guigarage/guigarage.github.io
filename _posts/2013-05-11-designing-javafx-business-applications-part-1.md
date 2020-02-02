@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General]
 excerpt: 'The JavaFX community is really growing and more and more open source frameworks and first real business applications appear on the internet. This post gives an overview of some helpfull APIs and how they can be used in enterprise projects'
-featuredImage: sample-7
+featuredImage: java-7
 permalink: '2013/05/designing-javafx-business-applications-part-1/'
 header:
   text: Designing JavaFX Business Applications

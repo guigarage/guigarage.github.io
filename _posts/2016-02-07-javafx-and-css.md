@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'One of the cool features of JavaFX is the CSS support. By using CSS you can simply style a single control or a complete application. This post gives a first introduction to the CSS usage and API in JavaFX'
-featuredImage: sample-4
+featuredImage: java-4
 permalink: '2016/02/javafx-and-css/'
 header:
   text: JavaFX and CSS

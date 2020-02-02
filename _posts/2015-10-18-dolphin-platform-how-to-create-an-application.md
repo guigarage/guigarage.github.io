@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX]
 excerpt: 'In this post I will show a first end to end example of the Dolphin Platform by creating an application that contains a Spring server and a JavaFX client.'
-featuredImage: sample-2
+featuredImage: dp-2
 permalink: '2015/10/dolphin-platform-how-to-create-an-application/'
 header:
   text: Dolphin Platform

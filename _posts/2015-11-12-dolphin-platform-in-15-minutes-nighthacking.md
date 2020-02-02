@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Dolphin Platform]
 excerpt: 'Michael and I were interviewed at Devoxx about the Dolphin Platform. In the interview we explain the benefits of the framework and show some code. The video was uploaded some minutes ago'
-featuredImage: sample-10
+featuredImage: dp-6
 permalink: '2015/11/dolphin-platform-in-15-minutes-nighthacking/'
 header:
   text: Dolphin Platform in 15 minutes

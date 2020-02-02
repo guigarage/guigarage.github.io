@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General]
 excerpt: 'If you are writing a JavaFX application that will connect to different servers in a local network you should have a look at Bonjour / ZeroConf. This technology is for example used by Apple to implement Airplay.'
-featuredImage: sample-7
+featuredImage: java-7
 permalink: '2013/10/simplify-your-app-by-using-bonjour/'
 header:
   text: Simplify your app by using Bonjour

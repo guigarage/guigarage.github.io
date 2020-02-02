@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX, Polymer, Web Frontends]
 excerpt: "Since JavaOne is over for more than a week we found some time to finish all the steps and I'm proud to announce the first Dolphin Platform release"
-featuredImage: sample-7
+featuredImage: dp-4
 permalink: '2015/11/dolphin-platform-has-been-released/'
 header:
   text: Dolphin Platform

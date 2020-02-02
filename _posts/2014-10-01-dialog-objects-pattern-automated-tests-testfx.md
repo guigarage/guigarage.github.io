@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'When developing an application you should add automated tests. Oh, sorry - I mean you MUST add automated test. This post introduces a pattern that help to create reuaseable and maintainable tests'
-featuredImage: sample-1
+featuredImage: java-1
 permalink: '2014/10/dialog-objects-pattern-automated-tests-testfx/'
 header:
   text: The View Objects Pattern

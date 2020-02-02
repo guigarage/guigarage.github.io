@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'The post shows how emojis can be supported in (JavaFX) applications'
-featuredImage: sample-4
+featuredImage: java-4
 permalink: '2015/01/support-emojis/'
 header:
   text: How to support Emojis

@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'This is the 4th tutorial about DataFX. In this tutorial I will show how you can manage central actions and navigation of a flow.'
-featuredImage: sample-11
+featuredImage: java-11
 permalink: '2014/06/datafx-tutorial-4/'
 header:
   text: DataFX 8 Tutorial

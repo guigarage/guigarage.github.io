@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'The DataFX team will show some cool new APIs at JavaOne this year. Today I will give a short preview to another part of the new DataFX APIs.'
-featuredImage: sample-1
+featuredImage: java-1
 permalink: '2013/09/datafx-controller-api/'
 header:
   text: DataFX Controller API

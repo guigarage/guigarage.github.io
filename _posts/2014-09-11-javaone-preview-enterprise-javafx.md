@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'This is a short preview of one of my talks at JavaOne 2014: Enterprise JavaFX. In the talk I will discuss problems in enterprise development with JavaFX.'
-featuredImage: sample-8
+featuredImage: sajavample-8
 permalink: '2014/09/javaone-preview-enterprise-javafx/'
 header:
   text: Enterprise JavaFX

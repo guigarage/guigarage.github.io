@@ -4,7 +4,7 @@ layout: post
 author: phdoerfler
 categories: [JavaFX]
 excerpt: 'By usinf sbt-fxml FXML files suddenly type check thus allowing you to find mistakes almost instantly.'
-featuredImage: sample-5
+featuredImage: java-5
 permalink: '2013/05/sbt-fxml-the-missing-link-between-fxml-and-your-code/'
 header:
   text: The missing link between FXML and your code

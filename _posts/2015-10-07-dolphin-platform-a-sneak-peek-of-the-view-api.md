@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX]
 excerpt: 'This post shows the view API of the Dolphin Platform. The Dolphin Platform is a MVC / MVP based open source framework for enterprise applications.'
-featuredImage: sample-1
+featuredImage: dp-1
 permalink: 'dolphin-platform-a-sneak-peek-of-the-view-api/'
 header:
   text: Dolphin Platform

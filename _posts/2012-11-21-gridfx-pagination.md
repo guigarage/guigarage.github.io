@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'With the JavaFX API for pagination it is possible to combine GridFX with the given features and create a grid that supports pagination.'
-featuredImage: sample-5
+featuredImage: java-5
 permalink: '2012/11/gridfx-pagination/'
 header:
   text: gridfx & pagination

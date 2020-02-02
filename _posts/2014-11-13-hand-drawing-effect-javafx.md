@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'In this post I show how you can create JavaFX shapes that look like they are hand drawn'
-featuredImage: sample-11
+featuredImage: java-1
 permalink: '2014/11/hand-drawing-effect-javafx/'
 header:
   text: Hand drawing effect with JavaFX

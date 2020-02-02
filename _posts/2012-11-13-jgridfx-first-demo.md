@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'This is the first demo of GridFX - the successor of JGrid.'
-featuredImage: sample-10
+featuredImage: java-10
 permalink: '2012/11/jgridfx-first-demo/'
 header:
   text: JGridFX First Demo

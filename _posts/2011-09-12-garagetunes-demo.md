@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Swing]
 excerpt: 'I created a cool new demo for JGrid.'
-featuredImage: sample-8
+featuredImage: java-8
 permalink: '2011/09/garagetunes-demo/'
 header:
   text: GarageTunes demo

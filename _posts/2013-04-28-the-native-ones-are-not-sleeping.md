@@ -4,7 +4,7 @@ layout: post
 author: claudine
 categories: [AquaFX, JavaFX]
 excerpt: 'As time goes by, there are lots of freshly skinned controls, which are waiting to be shown. So here comes a little update.'
-featuredImage: sample-4
+featuredImage: java-4
 permalink: '2013/04/the-native-ones-are-not-sleeping/'
 header:
   text: The native ones are not sleeping

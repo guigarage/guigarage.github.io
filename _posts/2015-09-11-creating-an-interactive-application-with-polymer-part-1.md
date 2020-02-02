@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Polymer, Web Frontends, WebComponents]
 excerpt: 'In this post I will create an interactive web application based on Polymer 1.0 to show how data binding can be used and how a basic app might look like.'
-featuredImage: sample-6
+featuredImage: java-6
 permalink: '2015/09/creating-an-interactive-application-with-polymer-part-1/'
 header:
   text: Interactive applications with Polymer

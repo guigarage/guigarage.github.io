@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'The post gives a short introduction about the architecture and features of Open Dolphin'
-featuredImage: sample-7
+featuredImage: java-7
 permalink: '2015/01/introduction-open-dolphin/'
 header:
   text: An introduction to Open Dolphin

@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General, JavaFX]
 excerpt: 'JavaFX supports a lot of transition and animation classes. But sometimes you need a special animation for that no default transition is provided by JavaFX.'
-featuredImage: sample-4
+featuredImage: java-4
 permalink: '2012/12/bindabletransition/'
 header:
   text: BindableTransition

@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General]
 excerpt: 'Win a copy of my book!'
-featuredImage: sample-4
+featuredImage: java-4
 permalink: '2014/07/win-copy-mastering-javafx-8-controls/'
 header:
   text: Mastering JavaFX 8 Controls

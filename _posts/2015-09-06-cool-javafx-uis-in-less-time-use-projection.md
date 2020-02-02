@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'This post shows how you can create UIs by using metadata and the projection pattern in JavaFX. By doing so all developers can create cool UIs.'
-featuredImage: sample-4
+featuredImage: java-4
 permalink: '2015/09/cool-javafx-uis-in-less-time-use-projection/'
 header:
   text: Projection with JavaFX

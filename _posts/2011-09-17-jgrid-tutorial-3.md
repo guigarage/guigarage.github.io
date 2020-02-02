@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Swing]
 excerpt: 'I created a series of tutorials to get familiar with JGrid.'
-featuredImage: sample-1
+featuredImage: java-1
 permalink: '2011/09/jgrid-tutorial-3/'
 header:
   text: JGrid Tutorial #3

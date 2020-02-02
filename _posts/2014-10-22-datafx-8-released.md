@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'I''m proud to announce that we have released DataFX 8.0 last week. This post will give you an overview of all the cool new features.'
-featuredImage: sample-6
+featuredImage: java-6
 permalink: '2014/10/datafx-8-released/'
 header:
   text: DataFX 8 has been released

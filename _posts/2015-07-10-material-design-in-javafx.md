@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'The last weeks I worked on a prototype to create a like Material Design UI with JavaFX. This post introduces the theme.'
-featuredImage: sample-3
+featuredImage: java-3
 permalink: '2015/07/material-design-in-javafx/'
 header:
   text: Material Design in JavaFX

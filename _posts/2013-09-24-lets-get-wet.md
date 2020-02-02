@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [AquaFX, Flatter, JavaFX]
 excerpt: 'The slides for my firdst JavaOne talk are online'
-featuredImage: sample-3
+featuredImage: java-3
 permalink: '2013/09/lets-get-wet/'
 header:
   text: 'Let''s get wet'

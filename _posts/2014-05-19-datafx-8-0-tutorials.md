@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'I started a series of DataFX Tutorials to show its functionality by some handsome and easy examples.'
-featuredImage: sample-7
+featuredImage: java-7
 permalink: '2014/05/datafx-8-0-tutorials/'
 header:
   text: DataFX 8.0 Tutorials

@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'An interview with me about JavaOne and my was posted at FX Experience. In addition I give another sneak peek of my JavaOne talks.'
-featuredImage: sample-9
+featuredImage: java-9
 permalink: '2014/09/interview-fx-experience/'
 header:
   text: Interview at FX Experience

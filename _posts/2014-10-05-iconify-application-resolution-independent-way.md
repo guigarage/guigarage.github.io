@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'Often icons are very important for a good UI. They will create a modern and professional look and will help the user to understand the meaning of actions.'
-featuredImage: sample-3
+featuredImage: java-3
 permalink: '2014/10/iconify-application-resolution-independent-way/'
 header:
   text: Iconify your application

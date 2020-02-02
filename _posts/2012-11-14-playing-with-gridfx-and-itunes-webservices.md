@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'I created some new samples for GridFX'
-featuredImage: sample-1
+featuredImage: java-1
 permalink: '2012/11/playing-with-gridfx-and-itunes-webservices/'
 header:
   text: GridFX and iTunes Webservices

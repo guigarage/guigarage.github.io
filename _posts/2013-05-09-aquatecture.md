@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [AquaFX, General, JavaFX]
 excerpt: 'In this post I will show you some of the internal API stuff of AquaFX'
-featuredImage: sample-6
+featuredImage: java-6
 permalink: '2013/05/aquatecture/'
 header:
   text: Aquatecture

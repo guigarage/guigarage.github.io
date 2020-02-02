@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General]
 excerpt: "Java 11 will mean the end of Java Web Start. Let's see what this means for legacy desktop apps and how developers can be ready for the change."
-featuredImage: sample-6
+featuredImage: java-6
 header:
   text: Future of Java Desktop
   image: sample

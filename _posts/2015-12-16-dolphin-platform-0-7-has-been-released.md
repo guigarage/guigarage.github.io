@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Dolphin Platform]
 excerpt: 'We released version 0.7 of the Dolphin Platform today. Next to the framework we updated the Spring Boot archetype for Maven and added a KumuluzEE Maven archetype.'
-featuredImage: sample-4
+featuredImage: dp-3
 permalink: '2015/12/dolphin-platform-0-7-has-been-released/'
 header:
   text: Dolphin Platform 0.7

@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'The 3rd beta of DataFX 8.0 has been released.'
-featuredImage: sample-6
+featuredImage: java-6
 permalink: '2014/05/datafx-8-0b3-released/'
 header:
   text: DataFX 8.0b3 has been released

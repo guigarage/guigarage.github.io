@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'At JavaOne I introduced ResponsiveFX as a lib that adds responsive design to JavaFX. This post describes the core concepts of responsive design and the API.'
-featuredImage: sample-9
+featuredImage: java-9
 permalink: '2014/11/responsive-design-javafx/'
 header:
   text: Responsive Design for JavaFX

@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: "For all my current JavaFX work I need a simple test framework to check the behavior of controls or complete scenes. Since I'm working more and more with the Property API I mainly wanted to to test the properties and their behavior of controls and scenes."
-featuredImage: sample-1
+featuredImage: java-1
 permalink: '2013/03/introducing-marvinfx/'
 header:
   text: Introducing MarvinFx

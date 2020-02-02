@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Swing]
 excerpt: 'The slides and samples of my JGrid sessions.'
-featuredImage: sample-10
+featuredImage: java-10
 permalink: '2011/09/jgrid-talk/'
 header:
   text: JGrid Talk

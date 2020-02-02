@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General]
 excerpt: 'I worked together with a designer to create a new logo for the GuiGarage'
-featuredImage: sample-5
+featuredImage: java-5
 permalink: '2014/07/guigarage-logo/'
 header:
   text: Guigarage Logo

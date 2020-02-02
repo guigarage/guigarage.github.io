@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'Johan and I had a DataFX session at JavaOne this week. The slides of the talk are now online.'
-featuredImage: sample-5
+featuredImage: java-5
 permalink: '2013/09/datafx-the-best-way-to-get-real-world-data-into-your-javafx-application/'
 header:
   text: DataFX session

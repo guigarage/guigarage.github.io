@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'Canoo had 16 sessions at JavaOne this year. For all the developers that can attend JavaOne Canoo selected some of the talks to show them again in Basel.'
-featuredImage: sample-5
+featuredImage: java-5
 permalink: '2014/10/javaone-sessions-canoo/'
 header:
   text: JavaOne Sessions

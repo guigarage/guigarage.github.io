@@ -2,7 +2,7 @@
 layout: post
 title:  'Amazon Corretto announced'
 author: hendrik
-featuredImage: sample-5
+featuredImage: java-5
 excerpt: 'At the Devoxx conference 2 weeks ago, Amazon announced Corretto as a new player in the OpenJDK market. Next to companies like SAP, Oracle or Bellsoft, the cloud computing company now provides a custom OpenJDK build. On the website Amazon Corretto is described as 
 "No-cost, multiplatform, production-ready distribution of OpenJDK". In this post I will have a deeper look at Corretto and explain why Amazon did this move.'
 categories: [Java, OpenJDK]

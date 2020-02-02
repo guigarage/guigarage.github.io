@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX, Web Frontends, WebComponents]
 excerpt: 'I created some reference cards to technologies like JavaFX or WebCompnents as handouts for conferences. Since today you can download this ref cards as pdfs.'
-featuredImage: sample-9
+featuredImage: java-9
 permalink: '2016/01/reference-cards-for-javafx-web-components-and-open-dolphin/'
 header:
   text: Reference Cards

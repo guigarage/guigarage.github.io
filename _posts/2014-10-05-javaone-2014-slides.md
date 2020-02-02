@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'I uploaded the slides of the first 3 talks at slideshare.'
-featuredImage: sample-4
+featuredImage: java-4
 permalink: '2014/10/javaone-2014-slides/'
 header:
   text: JavaOne 2014 Slides
