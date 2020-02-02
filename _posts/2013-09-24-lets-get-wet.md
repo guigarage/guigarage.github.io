@@ -3,7 +3,7 @@ title: 'Let''s get wet'
 layout: post
 author: hendrik
 categories: [AquaFX, Flatter, JavaFX]
-excerpt: 'TODO'
+excerpt: 'The slides for my firdst JavaOne talk are online'
 featuredImage: sample-3
 permalink: '2013/09/lets-get-wet/'
 header:
