@@ -96,11 +96,11 @@ We got a lot of positive feedback at JavaOne and several people twittered about 
 
 In addition a nice reminder was show before each session:
 
-![reminder](/assets/posts/guigarage-legacy/voting-machine-reminder.png)
+![reminder](/assets/posts/guigarage-legacy/reminder.jpg)
 
 But to be true: The coolest moment was the big announcement of the Voting Machine by [Sharat Chander](https://twitter.com/Sharat_Chander) at the **JavaOne keynote**:
 
-![keynote](/assets/posts/guigarage-legacy/voting-machine-keynote.png)
+![keynote](/assets/posts/guigarage-legacy/keynote.jpg)
 
 If you haven't seen the keynote you can [watch it online](https://www.oracle.com/javaone/on-demand/index.html?playvid=4578010697001).
 
