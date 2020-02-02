@@ -151,13 +151,18 @@ p {
     }
     .featured-image {
         float: left;
-        margin-right: 0.8em;
+        margin-right: 0.6em;
         max-width: 152px;
         border-radius: .3rem;
         border-style: solid;
         border-width: 1px;
         border-color: #17171766;
-        margin-top: 0.28em;
+        margin-top: 0.18em;
+    }
+    .post-date {
+        font-size: 0.7em;
+        font-weight: bold;
+        color: gray;
     }
     .excerpt-content {
         display: flex;
