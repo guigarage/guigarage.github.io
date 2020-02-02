@@ -14,7 +14,7 @@ Greetings web! I was invited to write a guest post here about a little JavaFX pr
 
 It scans for [FXML](http://docs.oracle.com/javafx/2/fxml_get_started/jfxpub-fxml_get_started.htm) files - either hand written or created by [Scene Builder](http://www.oracle.com/technetwork/java/javafx/tools/index.html) - parses them and creates controller classes with a proper name, package structure, imports, declarations and types. That's right: types! So now your FXML files suddenly type check thus allowing you to find mistakes almost instantly. And because of SBT, you don't even have to manually start the build for it. It happens as soon as you save your files.
 
-![scala](assets/posts/guigarage-legacy/scala.png)
+![scala](/assets/posts/guigarage-legacy/scala.png)
 
 ## What exactly are controller classes?
 
