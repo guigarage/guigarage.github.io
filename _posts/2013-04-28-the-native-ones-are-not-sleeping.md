@@ -3,7 +3,7 @@ title: 'The native ones are not sleeping'
 layout: post
 author: claudine
 categories: [AquaFX, JavaFX]
-excerpt: 'TODO'
+excerpt: 'As time goes by, there are lots of freshly skinned controls, which are waiting to be shown. So here comes a little update.'
 featuredImage: sample-4
 permalink: '2013/04/the-native-ones-are-not-sleeping/'
 header:

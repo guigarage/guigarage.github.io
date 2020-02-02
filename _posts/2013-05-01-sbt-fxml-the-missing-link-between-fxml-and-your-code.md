@@ -3,7 +3,7 @@ title: 'sbt-fxml: The missing link between FXML and your code'
 layout: post
 author: phdoerfler
 categories: [JavaFX]
-excerpt: 'TODO'
+excerpt: 'By usinf sbt-fxml FXML files suddenly type check thus allowing you to find mistakes almost instantly.'
 featuredImage: sample-5
 permalink: '2013/05/sbt-fxml-the-missing-link-between-fxml-and-your-code/'
 header:

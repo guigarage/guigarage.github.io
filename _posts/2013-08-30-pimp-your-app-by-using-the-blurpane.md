@@ -3,7 +3,7 @@ title: 'Pimp your App by using the BlurPane'
 layout: post
 author: hendrik
 categories: [JavaFX]
-excerpt: 'TODO'
+excerpt: 'For a skin we needed a special blur effect. Our goal was to blur the complete application once a message is shown on the screen. By doing so the user is targeted only to the displayed message because the rest of the application is blured.'
 featuredImage: sample-11
 permalink: '2013/08/pimp-your-app-by-using-the-blurpane/'
 header:

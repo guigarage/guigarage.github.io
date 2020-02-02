@@ -3,7 +3,7 @@ title: 'AquaFX: lessons learned (Part I)'
 layout: post
 author: claudine
 categories: [AquaFX, JavaFX]
-excerpt: 'TODO'
+excerpt: 'During the work on AquaFX there were some obstacles that needed to be overcome. In this article I want to summarize information, so that they might help people who just face the same questions, as I had.'
 featuredImage: sample-9
 permalink: '2013/05/aquafx-lessons-learned-part-i/'
 header:
