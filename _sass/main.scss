@@ -100,8 +100,17 @@ p {
 
 .footer {
     border-top: 1px solid $grey-lighter;
-    margin-top: 2em;
-    padding-bottom: 0em;
+    margin-top: 0em;
+    padding: 0em;
+
+    .section {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .footer-text {
+        text-align: right;
+    }
 }
 
 // Home
