@@ -3,7 +3,7 @@ title: 'The View Objects Pattern & automated tests with TestFX'
 layout: post
 author: hendrik
 categories: [JavaFX]
-excerpt: 'TODO'
+excerpt: 'When developing an application you should add automated tests. Oh, sorry - I mean you MUST add automated test. So when developing a JavaFX application there will come the moment when you ask yourself "How should I test this UI? A normal JUnit tests won't work here..."'
 featuredImage: sample-1
 permalink: '2014/10/dialog-objects-pattern-automated-tests-testfx/'
 header:
