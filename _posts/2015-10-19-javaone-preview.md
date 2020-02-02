@@ -3,7 +3,7 @@ title: 'JavaOne Preview'
 layout: post
 author: hendrik
 categories: [JavaFX]
-excerpt: 'TODO'
+excerpt: 'This year I will give 2 talks at JavaOne. For a short preview of the talks we recorded some videos in that I give a short overview about its topics.'
 featuredImage: sample-4
 permalink: '2015/10/javaone-preview/'
 header:

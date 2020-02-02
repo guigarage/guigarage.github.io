@@ -3,7 +3,7 @@ title: 'Dolphin Platform has been released'
 layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX, Polymer, Web Frontends]
-excerpt: 'TODO'
+excerpt: 'Since JavaOne is over for more than a week we found some time to finish all the steps and I'm proud to announce the first Dolphin Platform release'
 featuredImage: sample-7
 permalink: '2015/11/dolphin-platform-has-been-released/'
 header:

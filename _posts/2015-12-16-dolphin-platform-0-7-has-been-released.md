@@ -3,7 +3,7 @@ title: 'Dolphin Platform 0.7 has been released'
 layout: post
 author: hendrik
 categories: [Dolphin Platform]
-excerpt: 'TODO'
+excerpt: 'We released version 0.7 of the Dolphin Platform today. Next to the framework we updated the Spring Boot archetype for Maven and added a KumuluzEE Maven archetype.'
 featuredImage: sample-4
 permalink: '2015/12/dolphin-platform-0-7-has-been-released/'
 header:

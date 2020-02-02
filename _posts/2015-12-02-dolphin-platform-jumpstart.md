@@ -3,7 +3,7 @@ title: 'Dolphin Platform Jumpstart'
 layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX]
-excerpt: 'TODO'
+excerpt: 'Starting with a new technology is often hard. Even if the technology is documented and follows the pattern and structures that you already know from other APIs or frameworks the initial start is always a problem. For Dolphin Platform we created a jumpstart project that will help you to get into the framework and create awesome applications based on it.'
 featuredImage: sample-3
 permalink: '2015/12/dolphin-platform-jumpstart/'
 header:

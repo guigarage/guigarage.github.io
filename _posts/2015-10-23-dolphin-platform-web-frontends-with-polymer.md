@@ -3,7 +3,7 @@ title: 'Dolphin Platform Web Frontends with Polymer'
 layout: post
 author: hendrik
 categories: [Dolphin Platform, Polymer, Web Frontends, WebComponents]
-excerpt: 'TODO'
+excerpt: 'For the Dolphin Platform release we plan to offer several demos and tutorials as a starting point. Today I want to give you an overview of this work'
 featuredImage: sample-6
 permalink: '2015/10/dolphin-platform-web-frontends-with-polymer/'
 header:

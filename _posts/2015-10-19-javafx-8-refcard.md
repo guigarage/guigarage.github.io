@@ -3,7 +3,7 @@ title: 'JavaFX 8 RefCard'
 layout: post
 author: hendrik
 categories: [JavaFX]
-excerpt: 'TODO'
+excerpt: 'Together with Michael Heinrichs I created a JavaFX 8 RefCard for DZone. The RefCard gives an overview of the most important JavaFX APIs like CSS, Properties or Controls.'
 featuredImage: sample-3
 permalink: '2015/10/javafx-8-refcard/'
 header:

@@ -3,7 +3,7 @@ title: 'Dolphin Platform and Polymer'
 layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX, Polymer, Web Frontends, WebComponents]
-excerpt: 'TODO'
+excerpt: 'Starting with version 0.7 the Dolphin Platform JavaScript and Polymer API has been released.'
 featuredImage: sample-11
 permalink: '2015/12/dolphin-platform-and-polymer/'
 header:

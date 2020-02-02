@@ -3,7 +3,7 @@ title: 'A short preview of the JavaOne Voting Machine'
 layout: post
 author: hendrik
 categories: [IoT, JavaFX]
-excerpt: 'TODO'
+excerpt: 'Today I want to give a short preview of the JavaOne Voting Machine that is build for this year JavaOne as a cooperative project by Canoo and Oracle.'
 featuredImage: sample-5
 permalink: '2015/10/a-short-preview-of-the-javaone-voting-machine/'
 header:
