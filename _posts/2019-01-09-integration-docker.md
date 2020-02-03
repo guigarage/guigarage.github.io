@@ -2,7 +2,7 @@
 layout: post
 title:  'Integration tests with Docker'
 author: hendrik
-featuredImage: java-6
+featuredImage: java-container
 excerpt: 'This post gives an overview how we at Karakun use Docker to create integration tests for 
 JavaEE / JakartaEE based libraries and frameworks.'
 categories: [Java, Docker, Integration Tests, Tests, JavaEE, JakartaEE]

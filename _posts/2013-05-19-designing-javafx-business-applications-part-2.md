@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General, JavaFX]
 excerpt: 'This is the second part of my series about JavaFX architecture and best practice for (business) application.'
-featuredImage: java-8
+featuredImage: java-arch-4
 permalink: '2013/05/designing-javafx-business-applications-part-2/'
 header:
   text: Designing JavaFX Business Applications

@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [IoT, JavaFX]
 excerpt: 'If you visited JavaOne this year you should have noticed the Voting Machines that were placed at each session room at JavaOne. In this post I will share some insides about the creation of the machines.'
-featuredImage: dp-1
+featuredImage: voting
 permalink: '2016/01/the-javaone-voting-machine/'
 header:
   text: The JavaOne Voting Machine

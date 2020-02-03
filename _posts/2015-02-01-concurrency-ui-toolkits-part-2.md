@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Desktop Application Framework (JSR 377), JavaFX]
 excerpt: 'This post describes how the Concurrency in UI Toolkits can be defined in a unified way.'
-featuredImage: java-8
+featuredImage: java-arch-3
 permalink: '2015/02/concurrency-ui-toolkits-part-2/'
 header:
   text: Concurrency in UI Toolkits

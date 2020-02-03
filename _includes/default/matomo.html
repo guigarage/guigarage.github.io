@@ -1,16 +1,30 @@
+{% assign currentUrl = page.url | absolute_url %}
+{% if currentUrl contains 'http://localhost:4000' %}
+{% assign devMode = 'true' %}
+{% else %}
+{% assign devMode = 'false' %}
+{% endif %}
+
+{% if devMode == 'true' %}
+<script type="text/javascript">
+  console.log("Guigarage is in dev mode.");
+</script>
+{% else %}
 <!-- Matomo -->
 <script type="text/javascript">
-    var _paq = window._paq || [];
-    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-    _paq.push(['trackPageView']);
-    _paq.push(['enableLinkTracking']);
-    (function() {
-      var u="https://guigarage.matomo.cloud/";
-      _paq.push(['setTrackerUrl', u+'matomo.php']);
-      _paq.push(['setSiteId', '1']);
-      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/guigarage.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-    })();
-  </script>
-  <noscript><p><img src="https://guigarage.matomo.cloud/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-  <!-- End Matomo Code -->
+  console.log("Guigarage is in prod mode. matomo will be active");
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://guigarage.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/guigarage.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://guigarage.matomo.cloud/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code -->
+{% endif %}

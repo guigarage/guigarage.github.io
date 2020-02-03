@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'Pseudo classes are a really cool CSS feature that you can use to define styles for different states of a component. This post gives an overview how pseudo classes can be used in JavaFX'
-featuredImage: java-3
+featuredImage: css-1
 permalink: '2016/02/javafx-and-css-pseudo-classes/'
 header:
   text: Pseudo Classes

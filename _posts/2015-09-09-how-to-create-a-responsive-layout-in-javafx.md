@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX, Layout & UI]
 excerpt: 'Some days ago I was asked at twitter about a responsive layout problem in JavaFX. Here I will show how a first solution to create such a responsive layout.'
-featuredImage: java-5
+featuredImage: response-fx
 permalink: '2015/09/how-to-create-a-responsive-layout-in-javafx/'
 header:
   text: Responsive layouts in JavaFX

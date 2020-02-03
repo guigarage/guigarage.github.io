@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX]
 excerpt: 'The post shows all the main specifications of Java EE and describes how the are supported by DataFX and how a JavaFX application can use them'
-featuredImage: java-10
+featuredImage: java-arch-5
 permalink: '2014/01/javafx-meets-javaee/'
 header:
   text: JavaFX meets JavaEE
