@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'This is an overview of my JavaOne 2014 JavaFX sessions'
-featuredImage: sample-6
+featuredImage: java-6
 permalink: '2014/08/javaone-2014-sessions/'
 header:
   text: My JavaOne 2014 Sessions

@@ -7,7 +7,7 @@ layout: default
         {% assign title = page.title %}
         {%- include article/article-content.html title=title content=content -%}
     </div>
-    <div class="column">
+    <div class="column is-hidden-mobile">
         {%- include blog/sidebar.html -%}
     </div>
   </div>

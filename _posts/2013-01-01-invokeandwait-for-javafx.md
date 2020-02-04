@@ -3,8 +3,8 @@ title: 'invokeAndWait for JavaFX'
 layout: post
 author: hendrik
 categories: [DataFX, General, JavaFX]
-excerpt: 'TODO'
-featuredImage: sample-5
+excerpt: "Swing offers the two methods SwingUtilities.invokeAndWait(...) and SwingUtilities.invokeLater(...) to execute a Runnable object on Swings event dispatching thread. Let's have a look how we can have the same functionallity in JavaFX"
+featuredImage: java-5
 permalink: '2013/01/invokeandwait-for-javafx/'
 header:
   text: invokeAndWait for JavaFX

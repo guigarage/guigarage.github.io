@@ -3,8 +3,8 @@ title: 'Vagrant-Binding talk @ Devoxx 2012'
 layout: post
 author: hendrik
 categories: [Vagrant-Binding]
-excerpt: 'TODO'
-featuredImage: sample-2
+excerpt: 'The slides of my Vagrant-Binding talk at Devoxx are online'
+featuredImage: linux-container-3
 permalink: '2012/11/vagrant-binding-talk-devoxx-2012/'
 header:
   text: Vagrant-Binding talk @ Devoxx 2012

@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Web Frontends]
 excerpt: 'This post gives a short introduction to Bower from a Java developers point of view.'
-featuredImage: sample-11
+featuredImage: java-1
 permalink: '2015/02/short-introduction-bower/'
 header:
   text: A short introduction to Bower

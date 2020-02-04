@@ -2,7 +2,7 @@
 layout: post
 title:  'Amazon Corretto announced'
 author: hendrik
-featuredImage: sample-5
+featuredImage: java-5
 excerpt: 'At the Devoxx conference 2 weeks ago, Amazon announced Corretto as a new player in the OpenJDK market. Next to companies like SAP, Oracle or Bellsoft, the cloud computing company now provides a custom OpenJDK build. On the website Amazon Corretto is described as 
 "No-cost, multiplatform, production-ready distribution of OpenJDK". In this post I will have a deeper look at Corretto and explain why Amazon did this move.'
 categories: [Java, OpenJDK]
@@ -40,7 +40,7 @@ OpenJDK 64-Bit Server VM (build 25.192-b12, mixed mode)
 
 ## Is Corretto really a no-cost JDK?
 
-For now, you can easily download a Java 11 version everywhere. You can choose between Oracle JDK, Oracle OpenJDK builds, AdoptOpenJDK builds and [many more](/jdks/). While all (except for the Oracle JDK build) can easily be used in production it will become much harder in some months when Java 12 hits the market and the 6 month period of Java 11 ends. Even Java 11 is a so called LTS release (Long Term Support) companies like Oracle or Azul will only offer updates on Java 11 if you pay commercial support to them. Amazon plans to offer a free support and will provide updates for Java 11 with patches (security fixes and bugfixes) for several years. On the FAQ page of Corretto Amazon describes the model like this:
+For now, you can easily download a Java 11 version everywhere. You can choose between Oracle JDK, Oracle OpenJDK builds, AdoptOpenJDK builds and many more. While all (except for the Oracle JDK build) can easily be used in production it will become much harder in some months when Java 12 hits the market and the 6 month period of Java 11 ends. Even Java 11 is a so called LTS release (Long Term Support) companies like Oracle or Azul will only offer updates on Java 11 if you pay commercial support to them. Amazon plans to offer a free support and will provide updates for Java 11 with patches (security fixes and bugfixes) for several years. On the FAQ page of Corretto Amazon describes the model like this:
 
 * Corretto is distributed by Amazon under an Open Source license at no cost to you. It is licensed under the terms of the GNU
 * Public License version 2 with the Class Path Exception (GPLv2 with CPE). Amazon does not charge for its use or distribution.

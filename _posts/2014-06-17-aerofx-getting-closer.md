@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [AeroFX, JavaFX]
 excerpt: 'This is a new preview of the AeroFX Theme for JavaFX. The theme creates a native look and feel for JavaFX applications on Windows.'
-featuredImage: sample-2
+featuredImage: java-2
 permalink: '2014/06/aerofx-getting-closer/'
 header:
   text: AeroFX

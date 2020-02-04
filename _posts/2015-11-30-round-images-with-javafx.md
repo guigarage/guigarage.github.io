@@ -3,8 +3,8 @@ title: 'Round images with JavaFX'
 layout: post
 author: hendrik
 categories: [JavaFX, Layout & UI]
-excerpt: 'TODO'
-featuredImage: sample-1
+excerpt: 'This post gives an example for creating round image controls with JavaFX'
+featuredImage: java-1
 permalink: '2015/11/round-images-with-javafx/'
 header:
   text: Round images with JavaFX

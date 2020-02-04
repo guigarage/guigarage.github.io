@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'List of all JavaFX Talks at JavaOne 2014'
-featuredImage: sample-2
+featuredImage: java-2
 permalink: '2014/12/javafx-talks-javaone-2014/'
 header:
   text: JavaFX Talks at JavaOne 2014

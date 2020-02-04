@@ -2,7 +2,7 @@
 layout: post
 title:  'Server Timing with Rico'
 author: hendrik
-featuredImage: sample-7
+featuredImage: java-7
 excerpt: 'This post gives an overview about the new server timing specification of the w3c and how server timing can be used in any enterprise Java server by using Rico.'
 categories: [Java, Rico]
 header:

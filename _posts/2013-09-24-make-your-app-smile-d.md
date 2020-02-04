@@ -3,14 +3,14 @@ title: 'Make your app smile :D'
 layout: post
 author: hendrik
 categories: [JavaFX]
-excerpt: 'TODO'
-featuredImage: sample-4
+excerpt: "I think most of you know the emoji icons that are used in WhatsApp and other social apps to send smileys, space invader aliens and a smiling poo around the world. Let's have a look how emojis can be used in JavFX controls."
+featuredImage: java-4
 permalink: '2013/09/make-your-app-smile-d/'
 header:
   text: Make your app smile
   image: sample
 ---
-I think most of you know the emoji icons that are used in WhatsApp and other social apps to send smileys <img src="{{ site.baseurl }}/assets/posts/guigarage-legacy/1f603.png" width="24" height="24" />, space invader aliens <img src="{{ site.baseurl }}/assets/posts/guigarage-legacy/1f47e.png" width="24" height="24" /> and a smiling poo <img src="{{ site.baseurl }}/assets/posts/guigarage-legacy/1f4a9.png" width="24" height="24" /> around the world. With JavaFX 8 TextFlow is added to the set of default JavaFX controls. By using TextFlow, you can enrich text by images and font styles. By doing so, you can easily create rich text views:
+I think most of you know the emoji icons that are used in WhatsApp and other social apps to send smileys <img class="image-in-text" src="{{ site.baseurl }}/assets/posts/guigarage-legacy/1f603.png" width="24" height="24" />, space invader aliens <img class="image-in-text" src="{{ site.baseurl }}/assets/posts/guigarage-legacy/1f47e.png" width="24" height="24" /> and a smiling poo <img class="image-in-text" src="{{ site.baseurl }}/assets/posts/guigarage-legacy/1f4a9.png" width="24" height="24" /> around the world. With JavaFX 8 TextFlow is added to the set of default JavaFX controls. By using TextFlow, you can enrich text by images and font styles. By doing so, you can easily create rich text views:
 
 ![emoji](/assets/posts/guigarage-legacy/emoji.png)
 

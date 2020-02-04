@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Java]
 excerpt: 'See how both Maven and Gradle succeed and fail and consider static modules, an idea that would bring out and combine their best aspects.'
-featuredImage: sample-2
+featuredImage: java-2
 permalink: 'my-thoughts-about-java-build-tools/'
 header:
   text: Maven vs. Gradle

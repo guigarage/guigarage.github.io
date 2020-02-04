@@ -3,8 +3,8 @@ title: 'JGrid Tutorial #1'
 layout: post
 author: hendrik
 categories: [Swing]
-excerpt: 'TODO'
-featuredImage: sample-9
+excerpt: 'I created a series of tutorials to get familiar with JGrid.'
+featuredImage: java-9
 permalink: '2011/09/jgrid-tutorial-1/'
 header:
   text: JGrid Tutorial #1

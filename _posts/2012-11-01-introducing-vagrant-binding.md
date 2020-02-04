@@ -3,8 +3,8 @@ title: 'Introducing Vagrant-Binding'
 layout: post
 author: hendrik
 categories: [General, Vagrant-Binding]
-excerpt: 'TODO'
-featuredImage: sample-8
+excerpt: ' With the Vagrant-Binding you can put the automation in Java on the next level. The library is a wrapper around Vagrant that let you easily manage virtual machines from Java code at runtime.'
+featuredImage: linux-container-1
 permalink: '2012/11/introducing-vagrant-binding/'
 header:
   text: Introducing Vagrant-Binding

@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Desktop Application Framework (JSR 377), JavaFX]
 excerpt: 'Today the Review Ballot Results for JSR377 (Desktop|Embedded Application API) were published.'
-featuredImage: sample-10
+featuredImage: java-arch-2
 permalink: '2015/02/jsr377-got-green-light-continue/'
 header:
   text: JSR377 got green light

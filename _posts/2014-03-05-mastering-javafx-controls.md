@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General]
 excerpt: 'Mastering JavaFX Controls Book'
-featuredImage: sample-11
+featuredImage: java-1
 permalink: '2014/03/mastering-javafx-controls/'
 header:
   text: Mastering JavaFX Controls

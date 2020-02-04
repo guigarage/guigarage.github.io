@@ -3,8 +3,8 @@ title: 'BoxFX (JavaOne Preview 1)'
 layout: post
 author: hendrik
 categories: [IoT, JavaFX]
-excerpt: 'TODO'
-featuredImage: sample-10
+excerpt: "After a long time without a post I will show you a first preview of the stuff I'm currently working on. I (and Claudine) don't sleep the last month. We worked hard on some projects especially for our JavaOne presentations"
+featuredImage: java-10
 permalink: '2013/08/boxfx-javaone-preview-1/'
 header:
   text: BoxFX

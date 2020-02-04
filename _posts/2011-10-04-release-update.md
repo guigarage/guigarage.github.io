@@ -3,8 +3,8 @@ title: 'Release & Update'
 layout: post
 author: hendrik
 categories: [General]
-excerpt: 'TODO'
-featuredImage: sample-4
+excerpt: 'Several updates for my Swing related libraries.'
+featuredImage: java-4
 permalink: '2011/10/release-update/'
 header:
   text: Release & Update

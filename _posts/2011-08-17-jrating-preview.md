@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General]
 excerpt: 'Introduction of the Swing JRating component that can be used to visualize ratings.'
-featuredImage: sample-6
+featuredImage: java-6
 permalink: '2011/08/jrating-preview/'
 header:
   text: JRating

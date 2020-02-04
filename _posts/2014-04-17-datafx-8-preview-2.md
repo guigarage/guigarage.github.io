@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'A second preview build of DataFX has been released today!'
-featuredImage: sample-4
+featuredImage: java-4
 permalink: '2014/04/datafx-8-preview-2/'
 header:
   text: DataFX 8 Preview

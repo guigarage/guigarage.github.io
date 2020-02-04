@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'This tutorial describes how you can add DataFX to your JavaFX application or start a new application that is based on DataFX.'
-featuredImage: sample-6
+featuredImage: java-6
 permalink: '2015/01/set-datafx-application/'
 header:
   text: How to set up a DataFX application

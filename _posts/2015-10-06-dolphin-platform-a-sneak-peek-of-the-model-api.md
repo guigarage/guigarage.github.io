@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX, Web Frontends]
 excerpt: 'This is a short overview about the model API of the Dolphin Platform. This defines a model that will automatically synchronized between client and server.'
-featuredImage: sample-11
+featuredImage: dp-2
 permalink: '2015/10/dolphin-platform-a-sneak-peek-of-the-model-api/'
 header:
   text: Dolphin Platform

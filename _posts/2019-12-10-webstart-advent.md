@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  'How open source saved WebStart – a christmas carol'
+title:  'How open source saved WebStart'
 author: hendrik
-featuredImage: sample-2
+featuredImage: webstart
 excerpt: 'Everyone who has developed Java desktop applications within the last 15 years used WebStart or at least heard about it. This post gives an overview how the technology evolves as an open source project after Oracle announced its removal from the Oracle JDK.'
 categories: [Java, OpenWebStart]
 header:

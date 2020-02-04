@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [IoT, JavaFX]
 excerpt: 'If you visited JavaOne this year you should have noticed the Voting Machines that were placed at each session room at JavaOne. In this post I will share some insides about the creation of the machines.'
-featuredImage: sample-10
+featuredImage: voting
 permalink: '2016/01/the-javaone-voting-machine/'
 header:
   text: The JavaOne Voting Machine
@@ -96,11 +96,11 @@ We got a lot of positive feedback at JavaOne and several people twittered about 
 
 In addition a nice reminder was show before each session:
 
-![reminder](/assets/posts/guigarage-legacy/voting-machine-reminder.png)
+![reminder](/assets/posts/guigarage-legacy/reminder.png)
 
 But to be true: The coolest moment was the big announcement of the Voting Machine by [Sharat Chander](https://twitter.com/Sharat_Chander) at the **JavaOne keynote**:
 
-![keynote](/assets/posts/guigarage-legacy/voting-machine-keynote.png)
+![keynote](/assets/posts/guigarage-legacy/keynote.png)
 
 If you haven't seen the keynote you can [watch it online](https://www.oracle.com/javaone/on-demand/index.html?playvid=4578010697001).
 

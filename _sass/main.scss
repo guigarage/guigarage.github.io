@@ -51,6 +51,8 @@ p {
 // General page components
 .navbar {
     min-height: 4.8em;
+    padding-left: 1em;
+    padding-right: 1em;
     @include mobile {
         min-height: 1em;
         padding-left: 1em;
@@ -65,17 +67,6 @@ p {
         font-size: 1.5em;
         color: $white;
         font-family: 'Encode Sans', sans-serif;
-        > span {
-            padding-right: 0.3em;
-        }
-    }
-    .blink-cursor {
-        animation: blink-animation 1s steps(5, start) infinite;
-    }
-    @keyframes blink-animation {
-        to {
-            visibility: hidden;
-        }
     }
 }
 
@@ -109,8 +100,17 @@ p {
 
 .footer {
     border-top: 1px solid $grey-lighter;
-    margin-top: 2em;
-    padding-bottom: 0em;
+    margin-top: 0em;
+    padding: 0em;
+
+    .section {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .footer-text {
+        text-align: right;
+    }
 }
 
 // Home
@@ -160,13 +160,18 @@ p {
     }
     .featured-image {
         float: left;
-        margin-right: 0.8em;
+        margin-right: 0.6em;
         max-width: 152px;
         border-radius: .3rem;
         border-style: solid;
         border-width: 1px;
         border-color: #17171766;
-        margin-top: 0.28em;
+        margin-top: 0.18em;
+    }
+    .post-date {
+        font-size: 0.7em;
+        font-weight: bold;
+        color: gray;
     }
     .excerpt-content {
         display: flex;
@@ -274,6 +279,11 @@ p {
         img.image-two-third-width {
             max-width: 66%;
         }
+        img.image-in-text {
+            padding: 0em;
+            display: inline;
+        }
+
         p:not(:last-child), dl:not(:last-child), ol:not(:last-child), ul:not(:last-child), blockquote:not(:last-child), pre:not(:last-child), table:not(:last-child) {
             margin-bottom: 1em;
         }

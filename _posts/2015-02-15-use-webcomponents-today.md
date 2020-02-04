@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General, WebComponents]
 excerpt: 'This gives a short overview to the four W3C specs to define reusable web components: Element Template, Shadow DOM, Custom Elements and HTML Imports'
-featuredImage: sample-2
+featuredImage: java-2
 permalink: '2015/02/use-webcomponents-today/'
 header:
   text: Web Component specifications

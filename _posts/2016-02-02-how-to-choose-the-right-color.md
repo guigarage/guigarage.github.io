@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [General, Layout & UI]
 excerpt: 'When creating a new UI without having a designer in your team or concrete view templates you need to choose the colors of your design by yourself. Thanksfully there are tools that helps to find good color combinations'
-featuredImage: sample-8
+featuredImage: java-8
 permalink: '2016/02/how-to-choose-the-right-color/'
 header:
   text: How to choose the right color

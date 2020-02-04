@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'In this post I want to show you the first simple tutorial for DataFX 8. In thetutorial we want to create a simple view with only one point of interaction.'
-featuredImage: sample-8
+featuredImage: java-8
 permalink: '2014/05/datafx-tutorial-1/'
 header:
   text: DataFX 8 Tutorial

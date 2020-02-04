@@ -3,8 +3,8 @@ title: 'Building JavaFX Applications with Maven'
 layout: post
 author: hendrik
 categories: [JavaFX]
-excerpt: 'TODO'
-featuredImage: sample-6
+excerpt: 'With the preview of JavaFX 2 that is part of Java 6 and 7 you can already build custom JavaFX applications by using Maven'
+featuredImage: java-6
 permalink: '2012/10/building-javafx-applications-with-maven/'
 header:
   text: Building JavaFX Applications with Maven

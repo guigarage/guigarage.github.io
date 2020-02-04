@@ -3,8 +3,8 @@ title: 'JGrid Talk'
 layout: post
 author: hendrik
 categories: [Swing]
-excerpt: 'TODO'
-featuredImage: sample-10
+excerpt: 'The slides and samples of my JGrid sessions.'
+featuredImage: java-10
 permalink: '2011/09/jgrid-talk/'
 header:
   text: JGrid Talk

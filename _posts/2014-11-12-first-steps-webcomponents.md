@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Polymer, Web Frontends, WebComponents]
 excerpt: 'WebComponents are custom components for the web. I tried the new spec and created my first simple WebComponent with HTML, JavaScript and CSS'
-featuredImage: sample-10
+featuredImage: java-10
 permalink: '2014/11/first-steps-webcomponents/'
 header:
   text: First steps with WebComponents

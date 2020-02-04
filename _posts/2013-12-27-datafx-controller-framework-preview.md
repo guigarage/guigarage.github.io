@@ -3,8 +3,8 @@ title: 'DataFX Controller Framework Preview'
 layout: post
 author: hendrik
 categories: [DataFX, General, JavaFX]
-excerpt: 'TODO'
-featuredImage: sample-8
+excerpt: 'Today we released the version 2.0 of DataFX. As a next step we will work on DataFX 8.0 that will use Java 8 and JavaFX 8.'
+featuredImage: java-8
 permalink: '2013/12/datafx-controller-framework-preview/'
 header:
   text: DataFX Controller Framework
@@ -216,7 +216,7 @@ As you can see the injected model is used here, too. This task can be added to t
 
 {% highlight java %}
 Flow flow = new Flow(MasterViewController.class).
-                withTaskAction(MasterViewController.class, "load", LoadPersonsTask.class);
+            withTaskAction(MasterViewController.class, "load", LoadPersonsTask.class);
 {% endhighlight %}
 
 This defines a flow that starts with the master view and adds a task action to this view. The action is defined by the id "load". To bind this action to the load button only a additional annotation is needed in the controller:

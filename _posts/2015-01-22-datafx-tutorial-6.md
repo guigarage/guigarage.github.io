@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'In this tutorial I want to show how dynamic actions can be handled in DataFX.'
-featuredImage: sample-5
+featuredImage: java-5
 permalink: '2015/01/datafx-tutorial-6/'
 header:
   text: DataFX Tutorial

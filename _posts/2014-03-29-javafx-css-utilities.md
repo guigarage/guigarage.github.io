@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'Ever tried to add a Styleable property to a JavaFX Control or Skin? By doing so you can add additional CSS support to a Control type.'
-featuredImage: sample-3
+featuredImage: java-3
 permalink: '2014/03/javafx-css-utilities/'
 header:
   text: JavaFX CSS Utilities

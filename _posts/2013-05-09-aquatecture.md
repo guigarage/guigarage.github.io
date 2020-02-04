@@ -3,8 +3,8 @@ title: 'Aquatecture'
 layout: post
 author: hendrik
 categories: [AquaFX, General, JavaFX]
-excerpt: 'TODO'
-featuredImage: sample-6
+excerpt: 'In this post I will show you some of the internal API stuff of AquaFX'
+featuredImage: java-6
 permalink: '2013/05/aquatecture/'
 header:
   text: Aquatecture

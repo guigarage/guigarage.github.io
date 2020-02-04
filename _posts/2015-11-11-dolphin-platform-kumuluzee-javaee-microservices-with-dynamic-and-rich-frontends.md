@@ -3,8 +3,8 @@ title: 'Dolphin Platform & KumuluzEE: JavaEE Microservices with dynamic and rich
 layout: post
 author: hendrik
 categories: [General]
-excerpt: 'TODO'
-featuredImage: sample-9
+excerpt: "Have you heard of KumuluzEE that is one of the 2015 Java Duke's Choice Award winners? This post shows how you can combine it with the Dolphin Platform."
+featuredImage: dp-3
 permalink: '2015/11/dolphin-platform-kumuluzee-javaee-microservices-with-dynamic-and-rich-frontends/'
 header:
   text: Dolphin Platform & KumuluzEE

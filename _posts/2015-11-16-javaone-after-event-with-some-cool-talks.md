@@ -3,8 +3,8 @@ title: 'JavaOne After Event with some cool talks'
 layout: post
 author: hendrik
 categories: [JavaFX]
-excerpt: 'TODO'
-featuredImage: sample-11
+excerpt: "The JUG Switzerland has announced an event with some talks of the JavaOne 2015. I'm happy that 2 of the 5 talks are JavaFX / UI related."
+featuredImage: java-1
 permalink: '2015/11/javaone-after-event-with-some-cool-talks/'
 header:
   text: JavaOne After Event

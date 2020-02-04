@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [Web Frontends]
 excerpt: 'Always wanted to create round images in your web page? Instead of doing this with a graphic editor by hand you can use CSS to show a rounded image based on a regular image on your page.'
-featuredImage: sample-5
+featuredImage: css-2
 permalink: '2016/02/round-images-with-css/'
 header:
   text: Round Images with CSS

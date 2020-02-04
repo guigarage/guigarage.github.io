@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, Desktop Application Framework (JSR 377), JavaFX]
 excerpt: 'This is a short overview of the controller and flow API of DataFX with some small examples'
-featuredImage: sample-1
+featuredImage: java-arch-1
 permalink: '2015/02/quick-overview-datafx-mvc-flow-api/'
 header:
   text: The DataFX MVC and Flow API

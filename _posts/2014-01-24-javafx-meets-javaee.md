@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX]
 excerpt: 'The post shows all the main specifications of Java EE and describes how the are supported by DataFX and how a JavaFX application can use them'
-featuredImage: sample-10
+featuredImage: java-arch-5
 permalink: '2014/01/javafx-meets-javaee/'
 header:
   text: JavaFX meets JavaEE
@@ -12,7 +12,7 @@ header:
 ---
 At [JavaOne](http://www.oracle.com/javaone/) [Arun Gupta](https://www.java.net//blogs/arungupta) gave me a copy of his ["Java EE 7 Essentials" book](http://www.amazon.com/Java-EE-Essentials-Arun-Gupta/dp/1449370179). I don't want to write a complete review of the book, but if you are interested in the Java EE platform this book is perfect. It covers all the different specifications that are new or polished in Java EE 7 in several chapters and gives a very good overview to all the technologies and how to use them.
 
-![book](/assets/posts/guigarage-legacy/javaee-book.png)
+![book](/assets/posts/guigarage-legacy/javaee-book.jpg)
 
 After reading the book you are ready to develop a web application that is based on JEE 7. Most of this applications will have a web frontend that is based on JSF as it is shown in the book, too. But as I mentioned in a [earlier post]({{ site.baseurl }}{% post_url 2013-05-11-designing-javafx-business-applications-part-1 %}), a modern business applications often needs support for mobile or desktop applications:
 

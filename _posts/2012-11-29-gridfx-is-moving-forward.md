@@ -3,8 +3,8 @@ title: 'GridFX is moving forward'
 layout: post
 author: hendrik
 categories: [JavaFX]
-excerpt: 'TODO'
-featuredImage: sample-8
+excerpt: 'GridFX is official part of JFXtras.'
+featuredImage: java-8
 permalink: '2012/11/gridfx-is-moving-forward/'
 header:
   text: GridFX is moving forward

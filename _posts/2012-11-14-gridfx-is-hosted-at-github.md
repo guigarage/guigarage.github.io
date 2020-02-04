@@ -3,8 +3,8 @@ title: 'GridFX is hosted at github'
 layout: post
 author: hendrik
 categories: [JavaFX]
-excerpt: 'TODO'
-featuredImage: sample-11
+excerpt: 'The first open source version of GridFX can be found online'
+featuredImage: java-1
 permalink: '2012/11/gridfx-is-hosted-at-github/'
 header:
   text: GridFX is hosted at github

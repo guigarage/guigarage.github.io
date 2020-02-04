@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [DataFX, JavaFX]
 excerpt: 'This DataFX 8 preview introduces the ProcessChain. This uses Java 8 features like Lambda to provide multi threaded functionality in JavaFX'
-featuredImage: sample-9
+featuredImage: java-9
 permalink: '2014/01/datafx-8-preview-2-processchain/'
 header:
   text: The ProcessChain

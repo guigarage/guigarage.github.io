@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'I was interviewed at JAX Conference this week. The interview is in German and I talk about the current state of JavaFX and if it''s ready for the use in enterprise.'
-featuredImage: sample-5
+featuredImage: java-5
 permalink: '2014/05/javafx-8-interview-jax-2014/'
 header:
   text: JavaFX 8 Interview

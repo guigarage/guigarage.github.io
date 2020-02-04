@@ -4,7 +4,7 @@ layout: post
 author: hendrik
 categories: [JavaFX]
 excerpt: 'My "Extreme Gui Makeover" talk from JavaOne is one the first talks that was published at Parleys on the last days.'
-featuredImage: sample-7
+featuredImage: java-7
 permalink: '2014/10/extreme-gui-makeover-javaone/'
 header:
   text: Extreme Gui Makeover

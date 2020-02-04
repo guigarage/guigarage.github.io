@@ -3,8 +3,8 @@ title: 'Guigarage Logo'
 layout: post
 author: hendrik
 categories: [General]
-excerpt: 'TODO'
-featuredImage: sample-5
+excerpt: 'I worked together with a designer to create a new logo for the GuiGarage'
+featuredImage: java-5
 permalink: '2014/07/guigarage-logo/'
 header:
   text: Guigarage Logo

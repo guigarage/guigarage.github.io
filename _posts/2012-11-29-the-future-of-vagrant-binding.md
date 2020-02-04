@@ -3,8 +3,8 @@ title: 'The future of Vagrant-Binding'
 layout: post
 author: hendrik
 categories: [General, Vagrant-Binding]
-excerpt: 'TODO'
-featuredImage: sample-9
+excerpt: "Currently I'm working on Chef support for the Vagrant-Binding. So you can choose between Puppet and Chef as provisioner."
+featuredImage: linux-container-1
 permalink: '2012/11/the-future-of-vagrant-binding/'
 header:
   text: The future of Vagrant-Binding
