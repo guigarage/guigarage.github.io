@@ -7,6 +7,16 @@ header:
   image: sample
   text: Publications & Talks
 ---
+On this page I try to collect all my published articles, documents and interviews. Next to this you can find a list of all my sessions that I gave on conferences around the world.
+
+## JavaFX book & refCard
+
+In 2014 my first book "Mastering JavaFX 8 Controls" was released. The book was published by Oracle press as one of the offical Oracle press publications for the release of Java 8. You can find additional information about the book [here]({{ site.baseurl }}{% link pages/mastering-javafx-controls.md %}).
+
+Next to the JavaFX 8 book I created the JavaFX refCard for DZone. You can download the refCard for free [at DZone](https://dzone.com/refcardz/javafx-8-1?chapter=1).
+
+## Articles on other platforms
+
 Besides my blog some of my work is published in external articles:
 
 * [JUG Dortmund (German Java Aktuell, 2015)](http://www.guigarage.com/wordpress/wp-content/uploads/2013/08/03-2015-Java-aktuell-Ich-finde-es-großartig-wie-sich-die-Community-organisiert.pdf)
@@ -19,6 +29,8 @@ Besides my blog some of my work is published in external articles:
 * [DataFX overview (Java Aktuell, Februar 2013, German)](http://www.guigarage.com/wordpress/wp-content/uploads/2013/08/2013_02_Java-aktuell_Sonderdruck_Ebbers_Asynchrone-Datenabfragen-mit-DataFX.pdf)
 * [VagrantBinding overview (JAXenter, December 2012, German)](http://jaxenter.de/artikel/Vagrant-Puppet-fuer-Java-Entwickler-Einweg-VMs-zur-Runtime-erstellen)
 * [JavaFX overview (TecChannel, September 2013, German)](http://www.tecchannel.de/pc_mobile/tools/2044816/mit_javafx_bekommen_java_applikationen_ein_neues_gesicht)
+
+## Sessions and workshops
 
 Next to this I try to talked about our open source projects as often as I can:
 
