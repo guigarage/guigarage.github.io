@@ -6,12 +6,12 @@
 {% endif %}
 
 {% if devMode == 'true' %}
-<script type="text/javascript">
+<script>
   console.log("Guigarage is in dev mode.");
 </script>
 {% else %}
 <!-- Matomo -->
-<script type="text/javascript">
+<script>
   console.log("Guigarage is in prod mode. matomo will be active");
   var _paq = window._paq || [];
   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
