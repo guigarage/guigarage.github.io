@@ -5,7 +5,7 @@ author: hendrik
 featuredImage: back-to-java
 excerpt: "Each year several Java applications might show wrong date information for the days around New
  Year's Eve. This post gives an overview about the problem and describes how you can easily avoid such
- problems"
+ bugs"
 categories: [Java]
 header:
   text: A common problem with the date format
