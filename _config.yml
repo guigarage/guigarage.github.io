@@ -2,7 +2,7 @@ title: GuiGarage
 email: hendrik.ebbers@web.com
 description: The GuiGarage blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.guigarage.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://guigarage.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hendrikEbbers
 github_username:  hendrikEbbers
 
