@@ -33,7 +33,7 @@ While you can find answers to some of the questions it is not a trivial task for
 
 With [AdoptOpenJDK](https://adoptopenjdk.net) an open source project exists that has the main goal to solve all the mentioned problems by providing open, free and well tested builds of the OpenJDK. Since last year I'm part of the [AdoptOpenJDK technical steering committee (TSC)](https://github.com/AdoptOpenJDK/TSC#the-tsc). I'm really happy to be part of the team and with way over **150.000.000 downloads** I can say that the project is a great success and brings a really important benefit to the Java community. With AdoptOpenJDK binaries you have a really good alternative next to downloading (and paying for) Oracle Java. If you have more questions about AdoptOpenOpenJDK just ping me or ask us directly in the [AdoptOpenJDK Slack](https://adoptopenjdk.slack.com/).
 
-![AdoptOpenJDK logo](/assets/posts/2019-12-13-adopt-tests/adopt-logo.png){:class="image-two-third-width"}
+![AdoptOpenJDK logo](/assets/posts/2020-02-21-adopt-tests/adopt-logo.png){:class="image-two-third-width"}
 
 In this article I will gives an overview about the test infrastructure of AdoptOpenJDK and describe the different types of tests that will be executed for each release. All this ends in a really well tested distribution that is ready to used for the enterprise.
 
@@ -43,7 +43,7 @@ In this article I will gives an overview about the test infrastructure of AdoptO
 
 For all nightly and release builds, there are test jobs running as part of the [AdoptOpenJDK continuous delivery pipelines]((ci.adoptopenjdk.net)). For the test step of a build all tests are grouped by its type. Currently the tests of AdoptOpenJDK are splitted in 6 different groups / types. When running the test phase on our CI servers the defined groups will be executed in parallel. All this tests are defined in the open source test framework [**AQA** (AdoptOpenJDK Quality Assurance)](https://blog.adoptopenjdk.net/2019/07/the-first-drop-introducing-adoptopenjdk-quality-assurance-aqa-v1-0) that is provided by AdoptOpenJDK and can be found [here](https://github.com/AdoptOpenJDK/openjdk-tests). The following image shows the simplified pipeline of the AdoptOpenJDK builds and all the different test groups that are part of the test step in each build:
 
-![ci pipeline](/assets/posts/2019-12-13-adopt-tests/ci-pipeline.png)
+![ci pipeline](/assets/posts/2020-02-21-adopt-tests/ci-pipeline.png)
 
 Additional information about the test concept and the integration in the delivery pipeline can be found [at this blog post](https://blog.adoptopenjdk.net/2017/12/testing-java-help-count-ways).
 
