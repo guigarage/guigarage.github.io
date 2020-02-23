@@ -27,7 +27,7 @@ While this sounds like a really easy solution there are several points that you 
 * You do not know if this binaries were build on the latest OpenJDK sources / tag
 * You do not know if and how this binares were tested.
 
-While you can find answers to some of the questions it is not a trivial task for a regular user. Especially the last question can normally not be answerd.
+While you can find answers to some of the questions it is not a trivial task for a regular user. Especially the last question can normally not be answered.
 
 ## AdoptOpenJDK for the rescue
 
@@ -41,7 +41,7 @@ In this article I will gives an overview about the test infrastructure of AdoptO
 
 ## Guide to the test jobs at AdoptOpenJDK
 
-For all nightly and release builds, there are test jobs running as part of the [AdoptOpenJDK continuous delivery pipelines]((ci.adoptopenjdk.net)). For the test step of a build all tests are grouped by its type. Currently the tests of AdoptOpenJDK are splitted in 6 different groups / types. When running the test phase on our CI servers the defined groups will be executed in parallel. All this tests are defined in the open source test framework [**AQA** (AdoptOpenJDK Quality Assurance)](https://blog.adoptopenjdk.net/2019/07/the-first-drop-introducing-adoptopenjdk-quality-assurance-aqa-v1-0) that is provided by AdoptOpenJDK and can be found [here](https://github.com/AdoptOpenJDK/openjdk-tests). The following image shows the simplified pipeline of the AdoptOpenJDK builds and all the different test groups that are part of the test step in each build:
+For all nightly and release builds, there are test jobs running as part of the [AdoptOpenJDK continuous delivery pipelines]((ci.adoptopenjdk.net)). For the test step of a build all tests are grouped by its type. Currently the tests of AdoptOpenJDK are split in 6 different groups / types. When running the test phase on our CI servers the defined groups will be executed in parallel. All these tests are defined in the open source test framework [**AQA** (AdoptOpenJDK Quality Assurance)](https://blog.adoptopenjdk.net/2019/07/the-first-drop-introducing-adoptopenjdk-quality-assurance-aqa-v1-0) that is provided by AdoptOpenJDK and can be found [here](https://github.com/AdoptOpenJDK/openjdk-tests). The following image shows the simplified pipeline of the AdoptOpenJDK builds and all the different test groups that are part of the test step in each build:
 
 ![ci pipeline](/assets/posts/2020-02-21-adopt-tests/ci-pipeline.png)
 
@@ -61,13 +61,13 @@ As already mentioned all test of AdoptOpenJDK are grouped based on its type in 6
  | functional | Unit and functional tests     | Functional tests not originating from the openjdk regression suite, that include locale/language tests and a subset of implementation agnostic tests from the openj9 project. |
  | jck        | Compliance tests              | TCK tests (under the OpenJDK Community TCK License Agreement), in compliance with the license agreement.  While this test material is currently not run at the AdoptOpenJDK project (see the [support statement](https://adoptopenjdk.net/support.html#jck) for details), those with their own OCTLA agreements may use the AdoptOpenJDK test automation infrastructure to execute their TCK test material in their own private Jenkins servers. |
  
-As you can see next to the OpenJDK tests we added a lot of additional tests. The OpenJDK regression tests are a great start to test a JDK, but eventually you may want to be able to test the performance of your code, and whether some 3rd party applications still work. Here all the other test types comes in play. This does not only add performance tests and additional general unit tests. Next to those the test framework contains test suites from several big players from the Java ecosystem to directly check the accurate functionallity of important frameworks with the AdoptOpenJDK builds. The test suite for example executes all tests from the [Apache Tomcat](http://tomcat.apache.org) project and all TCKs (Test compatibilty kit) of the [Eclipse MicroProfile](https://microprofile.io).
+As you can see next to the OpenJDK tests we added a lot of additional tests. The OpenJDK regression tests are a great start to test a JDK, but eventually you may want to be able to test the performance of your code, and whether some 3rd party applications still work. Here all the other test types comes in play. This does not only add performance tests and additional general unit tests. Next to those the test framework contains test suites from several big players from the Java ecosystem to directly check the accurate functionality of important frameworks with the AdoptOpenJDK builds. AQA for example executes tests from [11+ popular Java applications](https://github.com/AdoptOpenJDK/openjdk-tests/tree/master/external) including all tests from [Apache Tomcat](http://tomcat.apache.org) project and all TCKs (Test Compatibility Kit) of the [Eclipse MicroProfile](https://microprofile.io) on the popular frameworks available (OpenLiberty, Payara, Tomee and Thorntail).
 
 ### Bundling all tests with AQA
 
-While this first looks like an impressive mix of several tests that will be executed individually for each build the underlying AQA platform does much more. Since we do not want to run test suites one after each other and end in several different test reports AQA provides a thin platform. This platform provides thin wrappers around the different test modules and assamble all in a signle huge test suite.
+While this first looks like an impressive mix of several tests that will be executed individually for each build the underlying AQA platform does much more. Since we do not want to run test suites one after each other and end in several different test reports AQA provides a thin platform. This platform provides thin wrappers around the different test modules and assembes all in a single huge test suite.
 
-By using AQA new tests or complete suites of tests can easily be added to the project and since AQA is open source any other project can easily adopt it. To be true some JDK vendors already use AQA today to test the builds of their JDK distributions. Some of them even intregate the Java TCK in AQA. While AdoptOpenJDK can currently not run the Java TCK based on a [missing agreeement with Oracle](https://adoptopenjdk.net/quality.html#jck) AQA already provides everything to simple integrate the TCK to a build job.
+By using AQA, new tests or complete suites of tests can easily be added to the project and since AQA is open source any other project can easily adopt it. To be true some JDK vendors already use AQA today to test the builds of their JDK distributions. Some of them even intregate the Java TCK in AQA. While AdoptOpenJDK currently does not run the Java TCK and has [no agreement with Oracle](https://adoptopenjdk.net/quality.html#jck), AQA already provides everything to simply integrate the TCK for those who wish to include it and have an OCLTA license for those closed test materials.
 
 As you can see every AdoptOpenJDK build runs through a 'we test the hell out of it' job ;) And the project won't stop here. More and more tests will be added to make AQA the perfect testsuite for any JDK build. In general you can define the benefits of AQA like this:
 
@@ -75,7 +75,7 @@ As you can see every AdoptOpenJDK build runs through a 'we test the hell out of 
 * a common way to easily add, edit, group, include, exclude and execute tests on AdoptOpenJDK builds
 * the latitude to use a variety of tests that use many different test frameworks
 * test results to have a common look & feel for easier viewing and comparison
-* easily run all types of tests via make targets and as stages in our Jenkins CI pipeline builds
+* easily run all types of tests via via make targets in various CI environments
 
 ## Guide to running the tests yourself
 
