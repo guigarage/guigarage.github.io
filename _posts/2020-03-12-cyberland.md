@@ -12,7 +12,7 @@ header:
 
 {% include elements/block.html text="Since this post is targeted to the German Java Community I decided to write it in German." %}
 
-Wie viele sicherlich bereits über Twitter oder Mail erfahren haben wurde das JavaLand 2020 abgesagt. Ich möchte hier nicht weiter auf die Gründe der Absage eingehen, da diese sicherlich bekannt sind. Wir (die deutsche JUG Community) haben viel Zeit in das Programm der JavaLand Konferenz gesteckt und sind daher genau wie die Speaker und Besucher traurig über diese Umstände. Aus diesem Grund haben wir uns zusammengeschlossen und organisieren aktuell eine kleinere Alternativveranstaltung. Aufgrund der aktuellen Situation wird es sich hierbei um eine 100% Remote Konferenz handeln. Da dies bei vielen sicherlich einige Fragezeichen aufwirft, möchte ich diesen Post nutzen um das Konzept zu erklären.
+Wie viele sicherlich bereits über Twitter oder Mail erfahren haben, wurde das JavaLand 2020 abgesagt. Ich möchte hier nicht weiter auf die Gründe der Absage eingehen, da diese sicherlich bekannt sind. Wir (die deutsche JUG Community) haben viel Zeit in das Programm der JavaLand Konferenz gesteckt und sind daher genau wie die Speaker und Besucher traurig über diese Umstände. Aus diesem Grund haben wir uns zusammengeschlossen und organisieren aktuell eine kleinere Alternativveranstaltung. Aufgrund der aktuellen Situation wird es sich hierbei um eine 100% Remote Konferenz handeln. Da dies bei vielen sicherlich einige Fragezeichen aufwirft, möchte ich diesen Post nutzen um das Konzept zu erklären.
 
 ![Cyberland](/assets/posts/2020-03-12-cyberland/cyberland-logo.png){:class="image-two-third-width"}
 
