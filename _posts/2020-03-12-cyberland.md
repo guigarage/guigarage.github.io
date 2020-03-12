@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  'What is Cyberland'
+title:  'About Cyberland'
 author: hendrik
-featuredImage: adopt-2
+featuredImage: duke-love
 excerpt: 'Based on the given circumstances (COVID-19) the JavaLand conferences has been canceled. This was the only solution that made sense for the organizers. We can understand that a lot of visitors and speakers are sad about this news. Based on this the German JUG community is organzing a 100% remote conference called Cyberland'
 categories: [Java, Cyberland]
 header:
@@ -49,3 +49,5 @@ Wir hoffen, dass noch bis Ende dieser Woche ein Webseite zum Cyberland online ge
 # Wie kann ich helfen?
 
 Die Frage haben wir in den letzten 2 Tagen schon mehrfach gehört. Vielleicht fühlt sich sogar aktuell der eine oder andere ausgeschlossen. Das tut uns natürlich sehr leid, aber in der aktuellen Situation müssen Entscheidungen schnell und pragmatisch getroffen werden. Aus diesem Grund wird das Cyberland aktuell federführend von einer handvoll Personen als Vertreter der deutschen JUGs organisiert. Sicherlich wird es auf dem Cyberland eine Begrüßungs-Session geben in der wir das alles auch noch einmal genauer erklären werden und die Leute hinter den Kulissen vorstellen. Für konkrete Fragen und Anmerkungen stehen Falk Sippach und ich jederzeit bereit. Neben uns ist die [CyberJUG](https://twitter.com/cyberjug) aktiv an der Umsetzung des Cyberlandes beteiligt - ein Fuchs wer jetzt errät, wie der Name vom Cyberland entstanden ist. Der CyberJUG möchte ich noch einmal für die schnelle Reaktion und Bereitschaft zur Mitorganisation ganz herzlich danken. Ansonsten hilft es sicherlich ein wenig Daumen zu drücken dass das hier alles sauber über die Bühne geht :D
+
+![Duke](/assets/posts/2020-03-12-cyberland/duke-love.png){:class="image-two-third-width"}
