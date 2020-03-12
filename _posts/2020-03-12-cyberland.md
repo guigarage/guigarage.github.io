@@ -44,7 +44,7 @@ Wir hoffen, dass noch bis Ende dieser Woche ein Webseite zum Cyberland online ge
 * Benutzer müssen sich keine Software (Zoom, Go-To-Meeting, etc.) installieren um teilnehmen zu können. Alles was man braucht ist ein aktueller Browser.
 * Benutzer müssen sich bei der von uns genutzten Software registrieren, um kostenlos am Cyberland teilnehmen zu können.
 * Leider werden nur jeweils 1.000 Leute gleichzeitig teilnehmen können. Ich glaube nicht, dass wir diese Zahl erreichen. Allerdings kann es dadurch passieren, dass man ggfs. eine Session nicht "besuchen" kann.
-* Wo es möglich ist, werden die den Vortrag aufzeichnen.
+* Wo es möglich ist, werden wir die Vorträge aufzeichnen.
 
 # Wie kann ich helfen?
 
