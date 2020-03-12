@@ -22,7 +22,7 @@ Wie eingangs geschrieben handelt es sich um eine Remote-Konferenz. Das Cyberland
 
 # Welches Programm kann ich erwarten?
 
-Wir arbeiten aktuell daran ein ganztägiges Programm für den kommenden Dienstag auf die Beine zu stellen. Auch wenn wir den genauen Zeitplan noch nicht fertig haben gehe ich davon aus, dass wir von 9-17 in 2 Streams Vorträge zur Verfügung stellen werden. Ja, wir werden direkt mit 2 Streams starten. Auch wenn wir vor dieser Aufgabe Respekt haben, hoffen wir so ein möglichst ausgeglichenes Programm bieten zu können bei denen die Zuschauer jederzeit zwischen wenigstens 2 Sessions wählen können. Es ist das erste mal, dass wir so etwas durchführen und die Planungszeit war nicht wirklich lang. Wir sind aber zuversichtlich, dass das Cyberland für uns, die Speaker und die Besucher ein Erfolg wird.
+Wir arbeiten aktuell daran ein ganztägiges Programm für den kommenden Dienstag auf die Beine zu stellen. Wir gehen davon aus, dass wir von 9-17 in 2 Streams Vorträge zur Verfügung stellen werden. Ja, wir werden direkt mit 2 Streams starten. Auch wenn wir vor dieser Aufgabe Respekt haben, hoffen wir so ein möglichst ausgeglichenes Programm bieten zu können bei denen die Zuschauer jederzeit zwischen wenigstens 2 Sessions wählen können. Es ist das erste Mal, dass wir so etwas durchführen und die Planungszeit war nicht wirklich lang. Wir sind aber zuversichtlich, dass das Cyberland für uns, die Speaker und die Besucher ein Erfolg wird.
 
 Obwohl wir den Zeitplan noch nicht fertig haben, kann ich doch schon einmal ein paar Speaker bekanntgeben:
 
