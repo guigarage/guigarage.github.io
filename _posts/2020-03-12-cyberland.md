@@ -18,7 +18,7 @@ Wie viele sicherlich bereits über Twitter oder Mail erfahren haben, wurde das J
 
 # Was ist das Cyberland?
 
-Wie eingangs geschrieben handelt es sich um eine Remote-Konferenz. Das Cyberland wird am kommenden Dienstag (17.03.2020) stattfinden. Alle Sessions die wir aktuell planen werden remote angeboten. Man kann sich das ganze ein wenig wie ein Webinar vorstellen. Speaker werden sowohl Folien als auch ihren Screen und ein Kamerabild streamen. Auch wenn dies dann etwas anders rüberkommt als bei einem Vortrag bei dem man vor Ort ist, können Besucher in einem Chat Fragen an den Speaker stellen. Die ganze Zeit über wird ein Moderator vorhanden sein. Dieser wird mit dem Speaker über die gestellten Fragen reden und ihn nach dem Vortrag interviewen.
+Wie eingangs geschrieben handelt es sich um eine Remote-Konferenz. Das Cyberland wird am kommenden Dienstag (17.03.2020) stattfinden. Alle Sessions die wir aktuell planen werden remote angeboten. Man kann sich das Ganze ein wenig wie ein Webinar vorstellen. Speaker werden sowohl Folien als auch ihren Screen und ein Kamerabild streamen. Auch wenn dies dann etwas anders rüberkommt als bei einem Vortrag, bei dem man vor Ort ist, können Besucher in einem Chat Fragen an den Speaker stellen. Die ganze Zeit über wird ein Moderator vorhanden sein. Dieser wird mit dem Speaker über die gestellten Fragen reden und ihn nach dem Vortrag interviewen.
 
 # Welches Programm kann ich erwarten?
 
