@@ -43,7 +43,7 @@ Wir hoffen, dass noch bis Ende dieser Woche ein Webseite zum Cyberland online ge
 * Das Cyberland ist nicht an das JavaLand gekoppelt. Auch Entwickler, die kein Ticket für das JavaLand hatten, können als Besucher am Cyberland teilnehmen.
 * Benutzer müssen sich keine Software (Zoom, Go-To-Meeting, etc.) installieren um teilnehmen zu können. Alles was man braucht ist ein aktueller Browser.
 * Benutzer müssen sich bei der von uns genutzten Software registrieren, um kostenlos am Cyberland teilnehmen zu können.
-* Leider werden nur jeweils 1.000 Leute gleichzeitig an einer Session teilnehmen können. Ich glaube nicht, dass wir diese Zahl erreichen. Allerdings kann es dadurch passieren, dass man ggfs. eine Session nicht "besuchen" kann.
+* Leider werden nur jeweils 1.000 Leute gleichzeitig teilnehmen können. Ich glaube nicht, dass wir diese Zahl erreichen. Allerdings kann es dadurch passieren, dass man ggfs. eine Session nicht "besuchen" kann.
 * Wo es möglich ist, werden die den Vortrag aufzeichnen.
 
 # Wie kann ich helfen?
