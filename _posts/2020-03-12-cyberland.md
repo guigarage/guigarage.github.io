@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  'About Cyberland'
+title:  'About Cyberland [German]'
 author: hendrik
 featuredImage: duke-love
 excerpt: 'Based on the given circumstances (COVID-19) the JavaLand conferences has been canceled. This was the only solution that made sense for the organizers. We can understand that a lot of visitors and speakers are sad about this news. Based on this the German JUG community is organzing a 100% remote conference called Cyberland'
 categories: [Java, Cyberland]
 header:
-  text: About Cyberland
+  text: Infos zum Cyberland
   image: sample
 ---
 
