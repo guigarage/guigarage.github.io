@@ -31,10 +31,10 @@ The timetable looks like this:
 | 10:00 | __Hybride Architekturen: Die Post-Microservice-Realität__ <br>Eberhard Wolff | __Not Dead yet – Java on Desktop__ <br>Gerrit Grunwald |
 | 11:00 | __Java After Eight__ <br>Nicolai Parlog | __Implementierung der DDD-Patterns mit Spring__ <br>Michael Plöd |
 | 12:00 | __5 Dinge für erfolgreiche Remote-Arbeit__ <br>Sven Peters | __Testcontainers: a Year-in-review__ <br>Kevin Wittek |
-| 13:00 | __Todesursache: Hibernate__ <br>Thorben Janssen | __Doku-Microsites mit jBake__ <br>Ralf Müller |
+| 13:00 | __Todesursache: Hibernate__ <br>Thorben Janssen | __Spezifikationstesten mit Spock vs. Mutationstesten__ <br>Johannes Dienst & Ralf Müller |
 | 14:00 | __Principles of Continuous Delivery and DevOps__ <br>Bert Jan Schrijver | __Knative introduction for the curious Java Developer__ <br>Roland Huss |
 | 15:00 | __Service Mesh patterns__ <br>Alex Soto | __Mögen die Tests mit dir sein__ <br>Jochen Mader |
-| 16:00 | __Spezifikationstesten mit Spock vs. Mutationstesten__ <br>Johannes Dienst | __Kommunikation für Softwareentwickler und alle anderen__ <br>Jens Schauder |
+| 16:00 | __TBD__ | __Kommunikation für Softwareentwickler und alle anderen__ <br>Jens Schauder |
 | 17:00 | __Developing w/ Kubernetes__ <br>Ray Tsang | __API-Kompatibilität durch Consumer-Driven Contracts und CI/CD__ <br>Arne Limburg |
 | 18:00 | __Verabschiedung__ <br>Cyberland-Orga | - |
 
