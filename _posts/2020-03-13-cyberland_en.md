@@ -34,7 +34,7 @@ The timetable looks like this:
 | 13:00 | __Todesursache: Hibernate__ <br>Thorben Janssen | __Spezifikationstesten mit Spock vs. Mutationstesten__ <br>Johannes Dienst & Ralf Müller |
 | 14:00 | __Principles of Continuous Delivery and DevOps__ <br>Bert Jan Schrijver | __Knative introduction for the curious Java Developer__ <br>Roland Huss |
 | 15:00 | __Service Mesh patterns__ <br>Alex Soto | __Mögen die Tests mit dir sein__ <br>Jochen Mader |
-| 16:00 | __TBD__ | __Kommunikation für Softwareentwickler und alle anderen__ <br>Jens Schauder |
+| 16:00 | __Asciidoctor Deep Dive__ <br>Alexander Schwartz | __Kommunikation für Softwareentwickler und alle anderen__ <br>Jens Schauder |
 | 17:00 | __Developing w/ Kubernetes__ <br>Ray Tsang | __API-Kompatibilität durch Consumer-Driven Contracts und CI/CD__ <br>Arne Limburg |
 | 18:00 | __Verabschiedung__ <br>Cyberland-Orga | - |
 
