@@ -1,41 +1,43 @@
 <nav class="navbar" aria-label="main navigation">
-  <div class="navbar-brand">
-    <a class="navbar-item page-title" href="{{ "/" | relative_url }}">GuiGarage</a>
-    <a role="button" class="navbar-burger" data-target="main-menu" aria-label="menu" aria-expanded="false">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
-  <div class="navbar-menu" id="main-menu">
-    <div class="navbar-start">
-      {% if page.title == my_page.title %}
-        <a class="navbar-item is-active" href="{{ "/" | relative_url }}">Home</a>
-      {% else %}
-        <a class="navbar-item" href="{{ "/" | relative_url }}">Home</a>
-      {% endif %}
-    
-      {% assign sortedPaths = site.pages | sort: 'order'  %}
-      {% for my_page in sortedPaths %}
-        {%- unless sitePage.url contains "/page" -%}
-          {%- if my_page.hidden != true -%}
-            {%- if my_page.title and my_page.url != "/" and my_page.nav.top != false -%}
-              {% if page.title == my_page.title %}
-                <a class="navbar-item is-active" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-              {% else %}
-                <a class="navbar-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-              {% endif %}
-            {%- endif -%}
-          {%- endif -%}
-        {%- endunless -%}
-      {%- endfor -%}
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item page-title" href="{{ "/" | relative_url }}">GuiGarage</a>
+      <a role="button" class="navbar-burger" data-target="main-menu" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
     </div>
-    <div class="navbar-end">
-      <div class="navbar-item">
-        <span class="icon is-medium"><a class="navbar-item" title="GitHub" href="https://github.com/guigarage/guigarage.github.io"><i class="fab fa-lg fa-github"></i></a></span>
-        <span class="icon is-medium"><a class="navbar-item" title="Twitter" href="https://twitter.com/hendrikEbbers"><i class="fab fa-lg fa-twitter"></i></a></span>
-        <span class="icon is-medium"><a class="navbar-item" title="Become a Patreon" href="https://www.patreon.com/guigarage"><i class="fab fa-lg fa-patreon"></i></a></span>
-        <span class="icon is-medium"><a class="navbar-item" title="YouTube" href="https://www.youtube.com/playlist?list=PL9r_sTu6nhXSFYknILieFl2YbFBrJIWRW"><i class="fab fa-lg fa-youtube"></i></a></span>
+    <div class="navbar-menu" id="main-menu">
+      <div class="navbar-start">
+        {% if page.title == my_page.title %}
+          <a class="navbar-item is-active" href="{{ "/" | relative_url }}">Home</a>
+        {% else %}
+          <a class="navbar-item" href="{{ "/" | relative_url }}">Home</a>
+        {% endif %}
+      
+        {% assign sortedPaths = site.pages | sort: 'order'  %}
+        {% for my_page in sortedPaths %}
+          {%- unless sitePage.url contains "/page" -%}
+            {%- if my_page.hidden != true -%}
+              {%- if my_page.title and my_page.url != "/" and my_page.nav.top != false -%}
+                {% if page.title == my_page.title %}
+                  <a class="navbar-item is-active" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                {% else %}
+                  <a class="navbar-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                {% endif %}
+              {%- endif -%}
+            {%- endif -%}
+          {%- endunless -%}
+        {%- endfor -%}
+      </div>
+      <div class="navbar-end">
+        <div class="navbar-item">
+          <span class="icon is-medium"><a class="navbar-item" title="GitHub" href="https://github.com/guigarage/guigarage.github.io"><i class="fab fa-lg fa-github"></i></a></span>
+          <span class="icon is-medium"><a class="navbar-item" title="Twitter" href="https://twitter.com/hendrikEbbers"><i class="fab fa-lg fa-twitter"></i></a></span>
+          <span class="icon is-medium"><a class="navbar-item" title="Become a Patreon" href="https://www.patreon.com/guigarage"><i class="fab fa-lg fa-patreon"></i></a></span>
+          <span class="icon is-medium"><a class="navbar-item" title="YouTube" href="https://www.youtube.com/playlist?list=PL9r_sTu6nhXSFYknILieFl2YbFBrJIWRW"><i class="fab fa-lg fa-youtube"></i></a></span>
+        </div>
       </div>
     </div>
   </div>

@@ -2,13 +2,15 @@
 layout: default
 ---
 <div class="section">
-  <div class="columns is-variable is-2">
-    <div class="column is-three-quarters">
-        {% assign title = page.title %}
-        {%- include article/article-content.html title=title content=content -%}
-    </div>
-    <div class="column is-hidden-mobile">
-        {%- include blog/sidebar.html -%}
+  <div class="container">
+    <div class="columns is-variable is-2">
+      <div class="column is-three-quarters">
+          {% assign title = page.title %}
+          {%- include article/article-content.html title=title content=content -%}
+      </div>
+      <div class="column is-hidden-mobile">
+          {%- include blog/sidebar.html -%}
+      </div>
     </div>
   </div>
 </div>
