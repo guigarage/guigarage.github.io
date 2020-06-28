@@ -10,11 +10,11 @@ header:
   image: sample
 ---
 
-Since several people of the international Java community asked me about Cyberland I decided top publish some englisch information about the event. In this post you can find all current available information about Cyberland.
+Since several people of the international Java community asked me about Cyberland I decided to publish some English information about the event. In this post, you can find all currently available information about Cyberland.
 
 # What is Cyberland?
 
-based on the cancelation of the JavaLand conference we (the German JUG community) decided to organize a free remote event as at least a small replacement for JavaLand. This event that is called 'Cyberland' will offer a 100% online conference. Cyberland will talke place next Tuesday (March 17, 2020). German information about JavaLand can be found [in my last post]({{ site.baseurl }}{% post_url 2020-03-12-cyberland %}) and [on the page of the CyberJUG](https://cyberjug.de/cyberland2020/).
+based on the cancelation of the JavaLand conference we (the German JUG community) decided to organize a free remote event as at least a small replacement for JavaLand. This event that is called 'Cyberland' will offer a 100% online conference. Cyberland will take place next Tuesday (March 17, 2020). German information about JavaLand can be found [in my last post]({{ site.baseurl }}{% post_url 2020-03-12-cyberland %}) and [on the page of the CyberJUG](https://cyberjug.de/cyberland2020/).
 
 ![Cyberland](/assets/posts/2020-03-13-cyberland_en/cyberland_1.png){:class="image-two-third-width"}
 
@@ -42,4 +42,4 @@ As you can see several of the talks are German since we decided to only add talk
 
 # What is the benefit against just watching recorded talks on YouTube?
 
-For sure a 100% online conference won't have the same experience as a regular conference. Based on this we decided to add some effort to make the experience as good as possible. We will have moderators in each room that collect questions from the audience and will do an live interview with each speaker after a session. Every attendee can simply ask questions in a chat. The moderator will target your questions and we can create a communication between the audience and the speaker. Next to this the moderators can help attendees with problems and answer general questions.
+For sure a 100% online conference won't have the same experience as a regular conference. Based on this we decided to add some effort to make the experience as good as possible. We will have moderators in each room that collect questions from the audience and will do a live interview with each speaker after a session. Every attendee can simply ask questions in a chat. The moderator will target your questions and we can create a communication between the audience and the speaker. Next to this the moderators can help attendees with problems and answer general questions.
