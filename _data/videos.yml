@@ -1,0 +1,84 @@
+- name: 'Beauty and the Beast: Java Versus TypeScript'
+  youtube-id: 6zxn_jY1jiA
+  language: english
+  description: TODO
+- name: 'JavaFX 2019'
+  youtube-id: 6cFD_k3Z6sc
+  language: german
+  description: TODO
+- name: 'Java APIs - the missing Manual'
+  youtube-id: zd21XSybZkQ
+  language: german
+  description: TODO
+- name: 'Extreme GUI Makeover'
+  youtube-id: XY3Jjkz1sk
+  language: english
+  description: TODO
+- name: 'Java 11 und jetzt?'
+  youtube-id: CUuCVHWeO-Y
+  language: deutsch
+  description: TODO
+- name: 'Where The Wild Projects Are'
+  youtube-id: 74AiufFGVug
+  language: english
+  description: TODO
+- name: 'Java: The Missing Manual'
+  youtube-id: YQBk9FyfzEM
+  language: german
+  description: TODO
+- name: 'Test-Driven Development with JavaFX'
+  youtube-id: PaB0t8NP3Oc
+  language: english
+  description: 'This session presents existing testing tools and frameworks in their current stage of development. It compares the capabilities and the kinds of impacts of existing projects. The presentation pays particular attention to questions such as  How can a cross-platform GUI test be created?’With many legacy (Java Swing–based) applications in need of migrating to the new JavaFX 8 platform, it is imperative for GUI code to be testable. The industry needs better strategies and tools for efficient migration from Swing to JavaFX 8.'
+- name: 'Let’s Get Wet! AquaFX and Best Practices for Skinning JavaFX Controls'
+  youtube-id: ucvdYGLWLT0
+  language: english
+  description: TODO
+- name: 'DataFX: From External Data to a UI Flow and Back'
+  youtube-id: q65436KIuJ0
+  language: english
+  description: TODO
+- name: 'DataFX: The Best Way to Get Real-World Data into Your JavaFX Application'
+  youtube-id: EN4fo6x0DcQ
+  language: english
+  description: TODO
+- name: 'Enterprise JavaFX'
+  youtube-id: 5yk6d8vjNE4
+  language: english
+  description: TODO
+- name: 'FXML Views mit dem SceneBuilder'
+  youtube-id: rROd8uxZoDg
+  language: german
+  description: TODO
+- name: 'The Remote Presentation Model Pattern'
+  youtube-id: Bo9kRUtKkhc
+  language: english
+  description: TODO
+- name: 'Dolphin Platform'
+  youtube-id: _AoHizQpJZ8
+  language: english
+  description: TODO
+- name: 'Web Components'
+  youtube-id: VLdvE8GaR0Y
+  language: english
+  description: TODO
+- name: 'The JavaFX Community and Ecosystem'
+  youtube-id: MVIKZyqpnMY
+  language: english
+  description: TODO
+- name: 'Feature Driven Development'
+  youtube-id: D7f4ztJIHwo
+  language: english
+  description: TODO
+- name: 'Test driven development with JavaFX'
+  youtube-id: Zt08nDyW-3M
+  language: english
+  description: TODO
+- name: 'DataFX Nighthacking'
+  youtube-id: 94oUnzlPUyQ
+  language: english
+  description: TODO
+- name: 'Building modern web UIs with Web Components'
+  youtube-id: muqOStp3A_o
+  language: english
+  description: 'This session will give you a thorough introduction into Web Components. We start by explaining the standards that form the foundation of WebComponents: Template tag, custom elements, Shadow DOM, and HTML imports. Next we will do a live coding session showing you how you can rapidly build a web application with existing Web Components from Polymer Elements and other sources and connect the application to a server. In the last section, we are going to explain how you can build your own custom components and integrate them into your application. Also we will share our experience gained while building an application with Web Components and talk about pitfalls that should be avoided when using Web Components in a real world project.'
