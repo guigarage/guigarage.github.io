@@ -11,7 +11,7 @@ my name is Hendrik Ebbers and this is my website about ui development in Java. H
 
 ## About me
 
-I'm co-founder of Karakun AG and lives in Dortmund, Germany. I'm the founder and leader of the Java User Group Dortmund and gives talks and presentations in user groups and conferences. My JavaFX book "Mastering JavaFX 8 Controls" was released 2014 by Oracle press. I'm a JavaOne Rockstar, JSR expert group member and Java Champion. I be paqrt of the AdoptOpenJDK TSC.
+I'm a co-founder of Karakun AG and live in Dortmund, Germany. I'm the founder and leader of the Java User Group Dortmund and give talks and presentations in user groups and conferences. My JavaFX book “Mastering JavaFX 8 Controls” was released in 2014 by Oracle press. I'm a JavaOne Rockstar, JSR expert group member and Java Champion. I'm a member of the AdoptOpenJDK TSC.
 
 ![Hendrik](/assets/posts/guigarage-legacy/profil.png)
 
