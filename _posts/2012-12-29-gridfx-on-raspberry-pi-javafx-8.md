@@ -10,7 +10,7 @@ header:
   text: GridFX on Raspberry Pi
   image: sample
 ---
-For my [first JFX demo]({{ site.baseurl }}{% post_url 2012-12-28-my-first-steps-with-javafx-on-raspberry-pi %}) I tried to create a experimental [GridFX]({{ site.baseurl }}{% post_url 2012-11-29-gridfx-is-moving-forward %}) version for JavaFX 8. As I mentioned in an [earlier post]({{ site.baseurl }}{% post_url 2012-11-17-custom-ui-controls-with-javafx-part-1 %}) there are some API changed between JavaFX 2 and 8. For GridFX I had to change two things:
+For my [first JFX demo]({{ site.baseurl }}{% post_url 2012-12-28-my-first-steps-with-javafx-on-raspberry-pi %}) I tried to create a experimental [GridFX]({{ site.baseurl }}{% link pages/projects/gridfx.md %}) version for JavaFX 8. As I mentioned in an [earlier post]({{ site.baseurl }}{% post_url 2012-11-17-custom-ui-controls-with-javafx-part-1 %}) there are some API changed between JavaFX 2 and 8. For GridFX I had to change two things:
 
 * The BaseSkin class is now public
 * The CSS support that I used in GridFX seams to work completely different in JavaFX 8.

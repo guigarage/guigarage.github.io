@@ -10,7 +10,7 @@ header:
   text: Desktop Application Framework
   image: sample
 ---
-Maybe you have mentioned that [Andres Almiray](https://twitter.com/aalmiray) is planing [a new desktop application framework JSR](http://www.jroller.com/aalmiray/entry/new_desktop_application_framework_jsr). I had a chat with him some days ago at the canoo hq and we discussed some points of this project. In addition Andres gave me an introduction to [Griffon](http://griffon.codehaus.org) and I showed him [DataFX 8]({{ site.baseurl }}{% post_url 2014-10-22-datafx-8-released %}).
+Maybe you have mentioned that [Andres Almiray](https://twitter.com/aalmiray) is planing [a new desktop application framework JSR](http://www.jroller.com/aalmiray/entry/new_desktop_application_framework_jsr). I had a chat with him some days ago at the canoo hq and we discussed some points of this project. In addition Andres gave me an introduction to [Griffon](http://griffon.codehaus.org) and I showed him [DataFX]({{ site.baseurl }}{% link pages/projects/datafx.md %}).
 
 One of the core features of the framework should be UI toolkit independency. By doing so the framework will only contain general definitions and JavaFX or Swing specific implementations will be loaded by SPI, for example.
 

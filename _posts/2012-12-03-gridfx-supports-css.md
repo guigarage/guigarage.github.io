@@ -10,7 +10,7 @@ header:
   text: GridFX supports CSS
   image: sample
 ---
-I added CSS support to [GridFX]({{ site.baseurl }}{% post_url 2012-11-29-gridfx-is-moving-forward %}). There are five properties that can be styled by CSS at the moment:
+I added CSS support to [GridFX]({{ site.baseurl }}{% link pages/projects/gridfx.md %}). There are five properties that can be styled by CSS at the moment:
 
 * `-fx-vertical-cell-spacing` - vertical spacing between two cells (double)
 * `-fx-horizontal-cell-spacing` - horizontal spacing between two cells (double)

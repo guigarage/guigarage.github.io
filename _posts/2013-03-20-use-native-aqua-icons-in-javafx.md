@@ -10,7 +10,7 @@ header:
   text: Aqua icons in JavaFX
   image: sample
 ---
-While planning [AquaFX]({{ site.baseurl }}{% post_url 2013-03-02-update-for-the-native-ones %}) we found a way how to access Mac OS specific icons without using any closed APIs or Mac OS related classes. We wrapped this in a simple util class. While using this on a Mac you will receive images by the underlying OS. On any other OS the function will return "null". We currently discuss if this should be part of AquaFX because this will be a part that is (under the hood) OS specific. All control skins of AquaFX are cross-platform. So you can skin your JavaFX application on Windows like a native Mac OS application (if you want :D ). Because we currently don't know if this sources will ever be part of AquaFX I simple will post them here:
+While planning [AquaFX]({{ site.baseurl }}{% link pages/projects/aquafx.md %}) we found a way how to access Mac OS specific icons without using any closed APIs or Mac OS related classes. We wrapped this in a simple util class. While using this on a Mac you will receive images by the underlying OS. On any other OS the function will return "null". We currently discuss if this should be part of AquaFX because this will be a part that is (under the hood) OS specific. All control skins of AquaFX are cross-platform. So you can skin your JavaFX application on Windows like a native Mac OS application (if you want :D ). Because we currently don't know if this sources will ever be part of AquaFX I simple will post them here:
 
 This enum contains all fetch able images that we found:
 
