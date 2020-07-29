@@ -1,6 +1,57 @@
 <div class="columns">
     <div class="column is-full">
-        <a href="{{ site.baseurl }}{% link pages/newsletter.md %}"><img alt="Newsletter" src="/assets/general/newsletter.png"></a>
+        <style>
+            .newsletter-box {
+                border-color: #d48d39;
+                border-width: 1px;
+                border-style: solid;
+                padding: 0.8em;
+            }
+        </style>
+        <div id="mc_embed_signup" class="newsletter-box">
+            <form action="https://guigarage.us4.list-manage.com/subscribe/post?u=7eb4cd61ed09b0d527f015e21&amp;id=6c968c32d2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
+                <div class="field">
+                    <div class="control has-icons-left">
+                        <input type="email" value="" name="EMAIL" class="input required email" id="mce-EMAIL">
+                        <span class="icon is-small is-left">
+                            <i class="fas fa-envelope"></i>
+                        </span>
+                      </div>
+                </div>
+                <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+                    <div class="content__gdpr">
+                        <div class="field" style="font-size: 0.8rem;">
+                            <p class="is-small">Select how you want to hear from us:</p>
+                            <div class="control" style="font-size: 0.8rem;">
+                                <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+                                <input type="checkbox" id="gdpr_33791" name="gdpr[33791]" value="Y" class="checkbox av-checkbox ">
+                                    Email<span id="email-required-field" class="help is-info">Required field</span>
+                                </fieldset>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="field is-grouped is-grouped-right" style="margin-bottom: 0px;">
+                    <div class="control">
+                        <input disabled type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button is-primary is-outlined">
+                    </div>
+                </div>
+                <script>
+                    var checkbox = document.getElementById('gdpr_33791');
+                    var button = document.getElementById('mc-embedded-subscribe');
+                    var mailRequiredField = document.getElementById('email-required-field');
+                    checkbox.addEventListener('change', function() {
+                        if(checkbox.checked) {
+                            button.removeAttribute('disabled');
+                            mailRequiredField.style.visibility = 'hidden';
+                        } else {
+                            button.setAttribute('disabled', 'true');
+                            mailRequiredField.style.visibility = 'visible';
+                        }
+                    });
+                </script>
+            </form>
+        </div>
     </div>
 </div>
 <div class="columns is-gapless">
