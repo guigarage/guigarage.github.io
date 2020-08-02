@@ -1,5 +1,6 @@
 ---
 layout: article
+hideNewsletter: true
 header:
   image: sample
   text: Subscribe to the newsletter
@@ -38,7 +39,7 @@ header:
                         <input type="checkbox" id="gdpr_47908" name="gdpr[47908]" value="Y" class="checkbox av-checkbox">
                         Email
                     </label>
-                    <p class="help is-info">Required field</p>
+                    <p id="email-required-field" class="help is-info">Required field</p>
                 </div>
             </div>
 
@@ -53,13 +54,16 @@ header:
                 </div>
             </div>
             <script>
-                var checkbox = document.getElementById('gdpr_33791');
+                var checkbox = document.getElementById('gdpr_47908');
                 var button = document.getElementById('mc-embedded-subscribe');
+                var mailRequiredField = document.getElementById('email-required-field');
                 checkbox.addEventListener('change', function() {
                     if(checkbox.checked) {
                         button.removeAttribute('disabled');
+                        mailRequiredField.style.visibility = 'hidden';
                     } else {
                         button.setAttribute('disabled', 'true');
+                        mailRequiredField.style.visibility = 'visible';
                     }
                 });
             </script>
