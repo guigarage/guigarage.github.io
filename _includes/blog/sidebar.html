@@ -1,3 +1,9 @@
+<div class="columns sidebar">
+    {%- if page.hideNewsletter -%}
+    {%- else -%}
+        {%- include default/sidebar-newsletter.html -%}
+    {%- endif -%}
+</div>
 <div class="columns is-gapless">
     <div class="column is-full">
         <a href="{{ site.baseurl }}{% link pages/mastering-javafx-controls.md %}"><img alt="Mastering JavaFX 8 book" src="/assets/general/menu-book.png"></a>

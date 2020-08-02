@@ -1,4 +1,11 @@
-<div id="mc_embed_signup" class="newsletter-form">
+---
+layout: article
+hideNewsletter: true
+header:
+  image: sample
+  text: Subscribe to the newsletter
+---
+<div id="mc_embed_signup" class="newsletter-submission-page">
     <form action="https://guigarage.us4.list-manage.com/subscribe/post?u=7eb4cd61ed09b0d527f015e21&amp;id=6c968c32d2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
             <h2>Subscribe to our newsletter</h2>            
@@ -29,10 +36,10 @@
                 <p>Please select all the ways you would like to hear from Guigarage:</p>
                 <div class="control">
                     <label class="checkbox">
-                        <input type="checkbox" id="gdpr_33791" name="gdpr[33791]" value="Y" class="checkbox av-checkbox">
+                        <input type="checkbox" id="gdpr_47908" name="gdpr[47908]" value="Y" class="checkbox av-checkbox">
                         Email
                     </label>
-                    <p class="help is-info">Required field</p>
+                    <p id="email-required-field" class="help is-info">Required field</p>
                 </div>
             </div>
 
@@ -47,13 +54,16 @@
                 </div>
             </div>
             <script>
-                var checkbox = document.getElementById('gdpr_33791');
+                var checkbox = document.getElementById('gdpr_47908');
                 var button = document.getElementById('mc-embedded-subscribe');
+                var mailRequiredField = document.getElementById('email-required-field');
                 checkbox.addEventListener('change', function() {
                     if(checkbox.checked) {
                         button.removeAttribute('disabled');
+                        mailRequiredField.style.visibility = 'hidden';
                     } else {
                         button.setAttribute('disabled', 'true');
+                        mailRequiredField.style.visibility = 'visible';
                     }
                 });
             </script>
