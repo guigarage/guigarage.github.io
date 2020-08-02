@@ -327,7 +327,7 @@ p {
     }
 }
 
-.post-sidebar {
+.sidebar {
     .post-author {
         padding: 1em;
         background-color: $white-ter;
@@ -358,9 +358,35 @@ p {
             }
         }
     }
+
+    .newsletter-box {
+        border-color: #d48d39;
+        background-color: #d48d39;
+        border-width: 1px;
+        border-style: solid;
+
+        .newsletter-header {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: white;
+        }
+    
+        .newsletter-content {
+            background-color: white;
+            padding: 0.8em;
+
+            .small-control {
+                font-size: 0.8rem;
+                font-weight: normal;
+            }
+            .button-field {
+                margin-bottom: 0px;
+            }
+        }
+    }
 }
 
-.newsletter-form {
+.newsletter-submission-page {
     margin-right: 8em;
 
     p:not(:last-child), dl:not(:last-child), ol:not(:last-child), ul:not(:last-child), blockquote:not(:last-child), pre:not(:last-child), table:not(:last-child) {

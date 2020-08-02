@@ -5,7 +5,7 @@ header:
   image: sample
   text: Subscribe to the newsletter
 ---
-<div id="mc_embed_signup" class="newsletter-form">
+<div id="mc_embed_signup" class="newsletter-submission-page">
     <form action="https://guigarage.us4.list-manage.com/subscribe/post?u=7eb4cd61ed09b0d527f015e21&amp;id=6c968c32d2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
             <h2>Subscribe to our newsletter</h2>            
