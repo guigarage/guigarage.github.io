@@ -1,5 +1,6 @@
 ---
 title: 'JSR377 got green light to continue!'
+redirect_to: https://open-elements.com/posts/2015/02/11/jsr377-got-green-light-to-continue/
 layout: post
 author: hendrik
 categories: [Desktop Application Framework (JSR 377), JavaFX]

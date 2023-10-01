@@ -1,5 +1,6 @@
 ---
 title: 'Layered images and icons with JavaFX'
+redirect_to: https://open-elements.com/posts/2015/09/16/layered-images-and-icons-with-javafx/
 layout: post
 author: hendrik
 categories: [JavaFX, Layout & UI]

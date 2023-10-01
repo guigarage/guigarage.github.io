@@ -1,5 +1,6 @@
 ---
 title: 'AquaFX dressed in Elements'
+redirect_to: https://open-elements.com/posts/2013/10/07/aquafx-dressed-in-elements/
 layout: post
 author: claudine
 categories: [AquaFX, JavaFX]

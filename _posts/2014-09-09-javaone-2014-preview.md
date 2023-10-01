@@ -1,5 +1,6 @@
 ---
 title: 'JavaOne 2014 Preview'
+redirect_to: https://open-elements.com/posts/2014/09/09/javaone-2014-preview/
 layout: post
 author: hendrik
 categories: [JavaFX]

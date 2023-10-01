@@ -1,5 +1,6 @@
 ---
 title: 'How to test your JavaFX application'
+redirect_to: https://open-elements.com/posts/2015/02/06/how-to-test-your-javafx-application/
 layout: post
 author: hendrik
 categories: [DataFX, JavaFX]

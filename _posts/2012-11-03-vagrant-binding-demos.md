@@ -1,5 +1,6 @@
 ---
 title: 'Vagrant-Binding-Demos'
+redirect_to: https://open-elements.com/posts/2012/11/03/vagrant-binding-demos/
 layout: post
 author: hendrik
 categories: [Vagrant-Binding]

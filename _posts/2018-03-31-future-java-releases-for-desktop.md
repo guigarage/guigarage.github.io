@@ -1,5 +1,6 @@
 ---
 title: 'What future Java releases mean for legacy desktop apps'
+redirect_to: https://open-elements.com/posts/2018/03/31/what-future-java-releases-mean-for-legacy-desktop-apps/
 layout: post
 author: hendrik
 categories: [General]

@@ -1,5 +1,6 @@
 ---
 title: 'Guigarage Logo'
+redirect_to: https://open-elements.com/posts/2014/07/16/guigarage-logo/
 layout: post
 author: hendrik
 categories: [General]

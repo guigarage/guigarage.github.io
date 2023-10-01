@@ -1,5 +1,6 @@
 ---
 title: 'Extreme Gui Makeover @ JavaOne'
+redirect_to: https://open-elements.com/posts/2014/10/26/extreme-gui-makeover-@-javaone/
 layout: post
 author: hendrik
 categories: [JavaFX]

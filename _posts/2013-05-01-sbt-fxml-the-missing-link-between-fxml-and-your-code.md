@@ -1,5 +1,6 @@
 ---
 title: 'sbt-fxml: The missing link between FXML and your code'
+redirect_to: https://open-elements.com/posts/2013/05/01/sbt-fxml-the-missing-link-between-fxml-and-your-code/
 layout: post
 author: phdoerfler
 categories: [JavaFX]

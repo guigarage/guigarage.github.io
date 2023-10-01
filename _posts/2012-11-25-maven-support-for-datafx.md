@@ -1,5 +1,6 @@
 ---
 title: 'Maven support for DataFX'
+redirect_to: https://open-elements.com/posts/2012/11/25/maven-support-for-datafx/
 layout: post
 author: hendrik
 categories: [DataFX, JavaFX]

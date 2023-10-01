@@ -1,5 +1,6 @@
 ---
 title: 'Hand drawing effect with JavaFX'
+redirect_to: https://open-elements.com/posts/2014/11/13/hand-drawing-effect-with-javafx/
 layout: post
 author: hendrik
 categories: [JavaFX]

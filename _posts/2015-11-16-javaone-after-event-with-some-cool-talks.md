@@ -1,5 +1,6 @@
 ---
 title: 'JavaOne After Event with some cool talks'
+redirect_to: https://open-elements.com/posts/2015/11/16/javaone-after-event-with-some-cool-talks/
 layout: post
 author: hendrik
 categories: [JavaFX]

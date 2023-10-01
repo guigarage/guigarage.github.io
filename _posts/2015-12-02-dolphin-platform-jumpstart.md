@@ -1,5 +1,6 @@
 ---
 title: 'Dolphin Platform Jumpstart'
+redirect_to: https://open-elements.com/posts/2015/12/02/dolphin-platform-jumpstart/
 layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX]

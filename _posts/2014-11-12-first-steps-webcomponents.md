@@ -1,5 +1,6 @@
 ---
 title: 'First steps with WebComponents'
+redirect_to: https://open-elements.com/posts/2014/11/12/first-steps-with-webcomponents/
 layout: post
 author: hendrik
 categories: [Polymer, Web Frontends, WebComponents]

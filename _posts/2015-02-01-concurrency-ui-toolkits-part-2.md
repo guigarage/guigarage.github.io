@@ -1,5 +1,6 @@
 ---
 title: 'Concurrency in UI Toolkits (Part 2)'
+redirect_to: https://open-elements.com/posts/2015/02/01/concurrency-in-ui-toolkits-part-2/
 layout: post
 author: hendrik
 categories: [Desktop Application Framework (JSR 377), JavaFX]

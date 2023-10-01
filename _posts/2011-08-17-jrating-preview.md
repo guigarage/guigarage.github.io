@@ -1,5 +1,6 @@
 ---
 title: 'JRating Preview'
+redirect_to: https://open-elements.com/posts/2011/08/17/jrating-preview/
 layout: post
 author: hendrik
 categories: [General]

@@ -1,5 +1,6 @@
 ---
 title: 'GridFX supports CSS'
+redirect_to: https://open-elements.com/posts/2012/12/03/gridfx-supports-css/
 layout: post
 author: hendrik
 categories: [JavaFX]

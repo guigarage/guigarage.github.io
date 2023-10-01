@@ -1,5 +1,6 @@
 ---
 title: 'gridfx & pagination'
+redirect_to: https://open-elements.com/posts/2012/11/21/gridfx-pagination/
 layout: post
 author: hendrik
 categories: [JavaFX]

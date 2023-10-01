@@ -1,4 +1,5 @@
 ---
+redirect_to: https://open-elements.com/de/posts/2020/03/12/about-cyberland-german/
 layout: post
 title:  'About Cyberland [German]'
 author: hendrik

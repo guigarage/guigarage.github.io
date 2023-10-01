@@ -1,5 +1,6 @@
 ---
 title: 'Maven vs. Gradle and the Best of Both Worlds'
+redirect_to: https://open-elements.com/posts/2016/10/28/maven-vs.-gradle-and-the-best-of-both-worlds/
 layout: post
 author: hendrik
 categories: [Java]

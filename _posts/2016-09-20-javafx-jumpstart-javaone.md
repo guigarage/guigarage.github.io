@@ -1,5 +1,6 @@
 ---
 title: 'JavaFX JumpStart @ JavaOne'
+redirect_to: https://open-elements.com/posts/2016/09/20/javafx-jumpstart-@-javaone/
 layout: post
 author: hendrik
 categories: [JavaFX]

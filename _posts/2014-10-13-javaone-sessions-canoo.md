@@ -1,5 +1,6 @@
 ---
 title: 'JavaOne Sessions at Canoo'
+redirect_to: https://open-elements.com/posts/2014/10/13/javaone-sessions-at-canoo/
 layout: post
 author: hendrik
 categories: [JavaFX]

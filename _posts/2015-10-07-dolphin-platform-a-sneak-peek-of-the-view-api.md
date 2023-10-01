@@ -1,5 +1,6 @@
 ---
 title: 'Dolphin Platform: A Sneak Peek of the view API'
+redirect_to: https://open-elements.com/posts/2015/10/07/dolphin-platform-a-sneak-peek-of-the-view-api/
 layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX]

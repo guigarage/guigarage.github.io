@@ -1,5 +1,6 @@
 ---
 title: 'Some news about Vagrant-Binding'
+redirect_to: https://open-elements.com/posts/2012/12/12/some-news-about-vagrant-binding/
 layout: post
 author: hendrik
 categories: [General, Vagrant-Binding]

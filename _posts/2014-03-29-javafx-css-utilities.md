@@ -1,5 +1,6 @@
 ---
 title: 'JavaFX CSS Utilities'
+redirect_to: https://open-elements.com/posts/2014/03/29/javafx-css-utilities/
 layout: post
 author: hendrik
 categories: [JavaFX]

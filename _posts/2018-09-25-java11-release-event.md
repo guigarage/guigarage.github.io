@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://open-elements.com/posts/2018/09/25/java-11-release-event/
 title:  'Java 11 release event'
 author: hendrik
 featuredImage: java-4

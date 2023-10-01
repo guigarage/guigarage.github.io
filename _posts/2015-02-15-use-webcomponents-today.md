@@ -1,5 +1,6 @@
 ---
 title: 'An overview of the Web Component specifications'
+redirect_to: https://open-elements.com/posts/2015/02/15/an-overview-of-the-web-component-specifications/
 layout: post
 author: hendrik
 categories: [General, WebComponents]

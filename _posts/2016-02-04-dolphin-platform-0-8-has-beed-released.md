@@ -1,4 +1,5 @@
 ---
+redirect_to: https://open-elements.com/posts/2016/02/04/dolphin-platform-0.8-has-beed-released/
 title: 'Dolphin Platform 0.8 has beed released'
 layout: post
 author: hendrik

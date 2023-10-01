@@ -1,5 +1,6 @@
 ---
 title: 'JGrid Talk'
+redirect_to: https://open-elements.com/posts/2011/09/15/jgrid-talk/
 layout: post
 author: hendrik
 categories: [Swing]

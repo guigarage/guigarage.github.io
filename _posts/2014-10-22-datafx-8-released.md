@@ -1,5 +1,6 @@
 ---
 title: 'DataFX 8 has been released & DataFX core overview'
+redirect_to: https://open-elements.com/posts/2014/10/22/datafx-8-has-been-released-datafx-core-overview/
 layout: post
 author: hendrik
 categories: [DataFX, JavaFX]

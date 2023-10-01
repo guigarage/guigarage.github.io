@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://open-elements.com/posts/2019/12/10/how-open-source-saved-webstart/
 title:  'How open source saved WebStart'
 author: hendrik
 featuredImage: webstart

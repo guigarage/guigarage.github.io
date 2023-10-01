@@ -1,5 +1,6 @@
 ---
 title: 'Fun with gestures'
+redirect_to: https://open-elements.com/posts/2011/07/28/fun-with-gestures/
 layout: post
 author: hendrik
 categories: [General]

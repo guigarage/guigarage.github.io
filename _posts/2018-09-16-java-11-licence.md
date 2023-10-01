@@ -1,4 +1,5 @@
 ---
+redirect_to: https://open-elements.com/posts/2018/09/16/the-road-to-java-11-builds-and-licences/
 layout: post
 title:  'The road to Java 11 - builds and licences'
 author: hendrik

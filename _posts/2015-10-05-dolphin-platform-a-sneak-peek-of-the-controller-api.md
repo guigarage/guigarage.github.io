@@ -1,5 +1,6 @@
 ---
 title: 'Dolphin Platform: A Sneak Peek of the controller API'
+redirect_to: https://open-elements.com/posts/2015/10/05/dolphin-platform-a-sneak-peek-of-the-controller-api/
 layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX]

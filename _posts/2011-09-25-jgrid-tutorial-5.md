@@ -1,5 +1,6 @@
 ---
 title: 'JGrid Tutorial #5'
+redirect_to: https://open-elements.com/posts/2011/09/25/jgrid-tutorial-5/
 layout: post
 author: hendrik
 categories: [Swing]

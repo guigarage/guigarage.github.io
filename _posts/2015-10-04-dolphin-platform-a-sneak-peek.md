@@ -1,5 +1,6 @@
 ---
 title: 'Dolphin Platform: A Sneak Peek'
+redirect_to: https://open-elements.com/posts/2015/10/04/dolphin-platform-a-sneak-peek/
 layout: post
 author: hendrik
 categories: [Desktop Application Framework (JSR 377), Dolphin Platform, JavaFX]

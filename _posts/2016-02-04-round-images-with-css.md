@@ -1,4 +1,5 @@
 ---
+redirect_to: https://open-elements.com/posts/2016/02/04/round-images-with-css/
 title: 'Round Images with CSS'
 layout: post
 author: hendrik

@@ -1,5 +1,6 @@
 ---
 title: 'GuiGarage @ JavaOne'
+redirect_to: https://open-elements.com/posts/2011/10/12/guigarage-@-javaone/
 layout: post
 author: hendrik
 categories: [General]

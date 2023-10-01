@@ -1,4 +1,5 @@
 ---
+redirect_to: https://open-elements.com/posts/2018/09/16/about-the-java-release-model/
 layout: post
 title:  'About the Java release model'
 author: hendrik

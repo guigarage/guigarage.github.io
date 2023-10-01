@@ -1,5 +1,6 @@
 ---
 title: 'Reactive Programming with JavaFX'
+redirect_to: https://open-elements.com/posts/2014/03/28/reactive-programming-with-javafx/
 layout: post
 author: hendrik
 categories: [JavaFX]

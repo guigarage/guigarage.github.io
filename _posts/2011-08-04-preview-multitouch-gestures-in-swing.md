@@ -1,5 +1,6 @@
 ---
 title: 'Preview: Multitouch gestures in swing'
+redirect_to: https://open-elements.com/posts/2011/08/04/preview-multitouch-gestures-in-swing/
 layout: post
 author: hendrik
 categories: [General]

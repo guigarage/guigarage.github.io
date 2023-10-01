@@ -1,5 +1,6 @@
 ---
 title: 'A quick overview to the DataFX MVC and Flow API'
+redirect_to: https://open-elements.com/posts/2015/02/13/a-quick-overview-to-the-datafx-mvc-and-flow-api/
 layout: post
 author: hendrik
 categories: [DataFX, Desktop Application Framework (JSR 377), JavaFX]

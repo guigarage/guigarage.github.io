@@ -1,5 +1,6 @@
 ---
 title: 'Adding JavaFX to your Eclipse project'
+redirect_to: https://open-elements.com/posts/2012/10/28/adding-javafx-to-your-eclipse-project/
 layout: post
 author: hendrik
 categories: [JavaFX]

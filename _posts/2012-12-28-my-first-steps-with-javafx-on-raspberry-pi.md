@@ -1,5 +1,6 @@
 ---
 title: 'My first steps with JavaFX on Raspberry Pi'
+redirect_to: https://open-elements.com/posts/2012/12/28/my-first-steps-with-javafx-on-raspberry-pi/
 layout: post
 author: hendrik
 categories: [DataFX, IoT, JavaFX]

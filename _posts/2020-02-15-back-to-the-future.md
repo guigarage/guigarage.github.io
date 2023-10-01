@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://open-elements.com/posts/2020/02/15/back-to-the-future-with-java/
 title:  'Back to the future - with Java'
 author: hendrik
 featuredImage: back-to-java

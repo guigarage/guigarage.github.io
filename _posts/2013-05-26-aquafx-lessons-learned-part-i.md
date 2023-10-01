@@ -1,5 +1,6 @@
 ---
 title: 'AquaFX: lessons learned (Part I)'
+redirect_to: https://open-elements.com/posts/2013/05/26/aquafx-lessons-learned-part-i/
 layout: post
 author: claudine
 categories: [AquaFX, JavaFX]

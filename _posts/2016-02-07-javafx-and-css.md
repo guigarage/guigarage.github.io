@@ -1,5 +1,6 @@
 ---
 title: 'JavaFX and CSS'
+redirect_to: https://open-elements.com/posts/2016/02/07/javafx-and-css/
 layout: post
 author: hendrik
 categories: [JavaFX]

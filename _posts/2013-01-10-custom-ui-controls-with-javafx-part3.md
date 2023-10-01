@@ -1,5 +1,6 @@
 ---
 title: 'Custom UI Controls with JavaFX (Part3)'
+redirect_to: https://open-elements.com/posts/2013/01/10/custom-ui-controls-with-javafx-part3/
 layout: post
 author: hendrik
 categories: [JavaFX]

@@ -1,5 +1,6 @@
 ---
 title: 'Reference Cards for JavaFX, Web Components and Open Dolphin'
+redirect_to: https://open-elements.com/posts/2016/01/15/reference-cards-for-javafx-web-components-and-open-dolphin/
 layout: post
 author: hendrik
 categories: [JavaFX, Web Frontends, WebComponents]

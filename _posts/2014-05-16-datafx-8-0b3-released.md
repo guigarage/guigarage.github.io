@@ -1,5 +1,6 @@
 ---
 title: 'DataFX 8.0b3 has been released'
+redirect_to: https://open-elements.com/posts/2014/05/16/datafx-8.0b3-has-been-released/
 layout: post
 author: hendrik
 categories: [DataFX, JavaFX]

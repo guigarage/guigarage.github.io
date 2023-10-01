@@ -1,5 +1,6 @@
 ---
 title: 'JavaFX 8 Interview at JAX 2014'
+redirect_to: https://open-elements.com/posts/2014/05/15/javafx-8-interview-at-jax-2014/
 layout: post
 author: hendrik
 categories: [JavaFX]

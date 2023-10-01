@@ -1,5 +1,6 @@
 ---
 title: 'Responsive Design for JavaFX'
+redirect_to: https://open-elements.com/posts/2014/11/04/responsive-design-for-javafx/
 layout: post
 author: hendrik
 categories: [JavaFX]

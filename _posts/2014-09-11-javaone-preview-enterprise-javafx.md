@@ -1,5 +1,6 @@
 ---
 title: 'JavaOne Preview: Enterprise JavaFX'
+redirect_to: https://open-elements.com/posts/2014/09/11/javaone-preview-enterprise-javafx/
 layout: post
 author: hendrik
 categories: [JavaFX]

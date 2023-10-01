@@ -1,5 +1,6 @@
 ---
 title: 'A short introduction to Bower'
+redirect_to: https://open-elements.com/posts/2015/02/12/a-short-introduction-to-bower/
 layout: post
 author: hendrik
 categories: [Web Frontends]

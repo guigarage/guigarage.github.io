@@ -1,5 +1,6 @@
 ---
 title: 'Dolphin Platform has been released'
+redirect_to: https://open-elements.com/posts/2015/11/09/dolphin-platform-has-been-released/
 layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX, Polymer, Web Frontends]

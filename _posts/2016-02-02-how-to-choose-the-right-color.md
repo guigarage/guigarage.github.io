@@ -1,5 +1,6 @@
 ---
 title: 'How to choose the right color'
+redirect_to: https://open-elements.com/posts/2016/02/02/how-to-choose-the-right-color/
 layout: post
 author: hendrik
 categories: [General, Layout & UI]

@@ -1,5 +1,6 @@
 ---
 title: 'Material Design in JavaFX'
+redirect_to: https://open-elements.com/posts/2015/07/10/material-design-in-javafx/
 layout: post
 author: hendrik
 categories: [JavaFX]

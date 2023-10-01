@@ -1,5 +1,6 @@
 ---
 title: 'Cool JavaFX UIs in less time? Use projection!'
+redirect_to: https://open-elements.com/posts/2015/09/06/cool-javafx-uis-in-less-time-use-projection/
 layout: post
 author: hendrik
 categories: [JavaFX]

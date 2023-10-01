@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://open-elements.com/posts/2020/07/14/adoptopenjdk-virtual-roadshow/
 title:  'AdoptOpenJDK Virtual Roadshow'
 author: hendrik
 featuredImage: duke-mask
@@ -8,7 +9,6 @@ categories: [Java, AdoptOpenJDK]
 header:
   text: AdoptOpenJDK Virtual Roadshow
   image: sample
-redirect_to: https://open-elements.com/posts/2020/07/14/adoptopenjdk-virtual-roadshow/
 ---
 
 {% include elements/block.html text="This post was originally posted at [blog.adoptopenjdk.com](https://blog.adoptopenjdk.net/2020/07/adoptopenjdk-virtual-roadshow/)" %}

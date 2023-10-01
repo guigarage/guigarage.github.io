@@ -1,5 +1,6 @@
 ---
 title: 'Aquatecture'
+redirect_to: https://open-elements.com/posts/2013/05/09/aquatecture/
 layout: post
 author: hendrik
 categories: [AquaFX, General, JavaFX]

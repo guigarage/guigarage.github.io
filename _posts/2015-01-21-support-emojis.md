@@ -1,5 +1,6 @@
 ---
 title: 'How to support Emojis (Part1)'
+redirect_to: https://open-elements.com/posts/2015/01/21/how-to-support-emojis-part1/
 layout: post
 author: hendrik
 categories: [JavaFX]

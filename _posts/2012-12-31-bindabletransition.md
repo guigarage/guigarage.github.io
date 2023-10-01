@@ -1,5 +1,6 @@
 ---
 title: 'BindableTransition'
+redirect_to: https://open-elements.com/posts/2012/12/31/bindabletransition/
 layout: post
 author: hendrik
 categories: [General, JavaFX]

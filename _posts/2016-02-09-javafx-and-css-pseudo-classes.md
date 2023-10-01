@@ -1,5 +1,6 @@
 ---
 title: 'JavaFX and CSS: Pseudo Classes'
+redirect_to: https://open-elements.com/posts/2016/02/09/javafx-and-css-pseudo-classes/
 layout: post
 author: hendrik
 categories: [JavaFX]

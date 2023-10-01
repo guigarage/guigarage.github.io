@@ -1,5 +1,6 @@
 ---
 title: 'DataFX 8 Preview 2'
+redirect_to: https://open-elements.com/posts/2014/04/17/datafx-8-preview-2/
 layout: post
 author: hendrik
 categories: [DataFX, JavaFX]

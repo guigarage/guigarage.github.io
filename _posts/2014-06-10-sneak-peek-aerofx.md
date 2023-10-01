@@ -1,5 +1,6 @@
 ---
 title: 'Sneak Peek: AeroFX'
+redirect_to: https://open-elements.com/posts/2014/06/10/sneak-peek-aerofx/
 layout: post
 author: hendrik
 categories: [AeroFX, AquaFX, JavaFX]

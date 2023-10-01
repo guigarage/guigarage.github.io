@@ -1,5 +1,6 @@
 ---
 title: 'Dolphin Platform: How to create an application'
+redirect_to: https://open-elements.com/posts/2015/10/18/dolphin-platform-how-to-create-an-application/
 layout: post
 author: hendrik
 categories: [Dolphin Platform, JavaFX]

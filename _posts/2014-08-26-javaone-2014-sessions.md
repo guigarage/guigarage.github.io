@@ -1,5 +1,6 @@
 ---
 title: 'My JavaOne 2014 Sessions'
+redirect_to: https://open-elements.com/posts/2014/08/26/my-javaone-2014-sessions/
 layout: post
 author: hendrik
 categories: [JavaFX]

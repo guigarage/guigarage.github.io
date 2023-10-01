@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://open-elements.com/posts/2019/01/09/integration-tests-with-docker/
 title:  'Integration tests with Docker'
 author: hendrik
 featuredImage: java-container

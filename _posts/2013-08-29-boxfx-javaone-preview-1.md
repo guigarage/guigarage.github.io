@@ -1,5 +1,6 @@
 ---
 title: 'BoxFX (JavaOne Preview 1)'
+redirect_to: https://open-elements.com/posts/2013/08/29/boxfx-javaone-preview-1/
 layout: post
 author: hendrik
 categories: [IoT, JavaFX]

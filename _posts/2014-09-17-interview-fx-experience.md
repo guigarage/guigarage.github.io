@@ -1,5 +1,6 @@
 ---
 title: 'Interview at FX Experience'
+redirect_to: https://open-elements.com/posts/2014/09/17/interview-at-fx-experience/
 layout: post
 author: hendrik
 categories: [JavaFX]

@@ -1,5 +1,6 @@
 ---
 title: 'The JavaOne Voting Machine'
+redirect_to: https://open-elements.com/posts/2016/01/13/the-javaone-voting-machine/
 layout: post
 author: hendrik
 categories: [IoT, JavaFX]

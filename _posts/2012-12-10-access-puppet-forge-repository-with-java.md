@@ -1,5 +1,6 @@
 ---
 title: 'Access Puppet Forge Repository with Java'
+redirect_to: https://open-elements.com/posts/2012/12/10/access-puppet-forge-repository-with-java/
 layout: post
 author: hendrik
 categories: [Vagrant-Binding]

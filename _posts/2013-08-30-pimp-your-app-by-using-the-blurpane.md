@@ -1,5 +1,6 @@
 ---
 title: 'Pimp your App by using the BlurPane'
+redirect_to: https://open-elements.com/posts/2013/08/30/pimp-your-app-by-using-the-blurpane/
 layout: post
 author: hendrik
 categories: [JavaFX]

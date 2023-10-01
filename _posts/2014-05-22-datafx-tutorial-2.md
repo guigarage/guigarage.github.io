@@ -1,5 +1,6 @@
 ---
 title: 'DataFX 8 Tutorial 2'
+redirect_to: https://open-elements.com/posts/2014/05/22/datafx-8-tutorial-2/
 layout: post
 author: hendrik
 categories: [DataFX, JavaFX]

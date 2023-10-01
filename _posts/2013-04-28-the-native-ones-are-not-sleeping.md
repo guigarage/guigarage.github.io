@@ -1,5 +1,6 @@
 ---
 title: 'The native ones are not sleeping'
+redirect_to: https://open-elements.com/posts/2013/04/28/the-native-ones-are-not-sleeping/
 layout: post
 author: claudine
 categories: [AquaFX, JavaFX]

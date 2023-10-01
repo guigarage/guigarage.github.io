@@ -1,5 +1,6 @@
 ---
 title: 'Mastering JavaFX Controls'
+redirect_to: https://open-elements.com/posts/2014/03/05/mastering-javafx-controls/
 layout: post
 author: hendrik
 categories: [General]

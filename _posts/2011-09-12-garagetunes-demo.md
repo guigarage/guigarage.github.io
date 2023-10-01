@@ -1,5 +1,6 @@
 ---
 title: 'GarageTunes demo'
+redirect_to: https://open-elements.com/posts/2011/09/12/garagetunes-demo/
 layout: post
 author: hendrik
 categories: [Swing]

@@ -1,5 +1,6 @@
 ---
 title: 'Win a copy of "Mastering JavaFX 8 Controls"'
+redirect_to: https://open-elements.com/posts/2014/07/08/win-a-copy-of-mastering-javafx-8-controls/
 layout: post
 author: hendrik
 categories: [General]

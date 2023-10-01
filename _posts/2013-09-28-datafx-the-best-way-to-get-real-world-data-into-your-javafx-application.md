@@ -1,5 +1,6 @@
 ---
 title: 'DataFX: The best way to get real-world data into your JavaFX application'
+redirect_to: https://open-elements.com/posts/2013/09/28/datafx-the-best-way-to-get-real-world-data-into-your-javafx-application/
 layout: post
 author: hendrik
 categories: [DataFX, JavaFX]

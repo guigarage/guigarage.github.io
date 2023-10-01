@@ -1,5 +1,6 @@
 ---
 title: 'This is for the native ones'
+redirect_to: https://open-elements.com/posts/2013/01/16/this-is-for-the-native-ones/
 layout: post
 author: hendrik
 categories: [AquaFX, General, JavaFX]

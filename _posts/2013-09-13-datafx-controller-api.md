@@ -1,5 +1,6 @@
 ---
 title: 'DataFX Controller API'
+redirect_to: https://open-elements.com/posts/2013/09/13/datafx-controller-api/
 layout: post
 author: hendrik
 categories: [DataFX, JavaFX]

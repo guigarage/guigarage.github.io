@@ -1,5 +1,6 @@
 ---
 title: 'How to set up a DataFX application'
+redirect_to: https://open-elements.com/posts/2015/01/28/how-to-set-up-a-datafx-application/
 layout: post
 author: hendrik
 categories: [DataFX, JavaFX]

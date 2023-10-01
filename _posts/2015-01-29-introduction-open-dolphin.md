@@ -1,5 +1,6 @@
 ---
 title: 'An introduction to Open Dolphin'
+redirect_to: https://open-elements.com/posts/2015/01/29/an-introduction-to-open-dolphin/
 layout: post
 author: hendrik
 categories: [JavaFX]

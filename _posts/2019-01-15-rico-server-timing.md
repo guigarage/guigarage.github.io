@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://open-elements.com/posts/2019/01/15/server-timing-with-rico/
 title:  'Server Timing with Rico'
 author: hendrik
 featuredImage: java-7

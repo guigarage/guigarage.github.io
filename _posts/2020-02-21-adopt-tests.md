@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://open-elements.com/posts/2020/02/21/how-adoptopenjdk-provides-enterprise-ready-openjdk-builds/
 title:  'How AdoptOpenJDK provides enterprise ready OpenJDK builds'
 author: hendrik
 featuredImage: adopt-2

@@ -1,5 +1,6 @@
 ---
 title: 'Creating an interactive application with Polymer (Part 1)'
+redirect_to: https://open-elements.com/posts/2015/09/11/creating-an-interactive-application-with-polymer-part-1/
 layout: post
 author: hendrik
 categories: [Polymer, Web Frontends, WebComponents]

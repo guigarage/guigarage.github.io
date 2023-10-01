@@ -1,5 +1,6 @@
 ---
 title: 'How to create a responsive layout in JavaFX'
+redirect_to: https://open-elements.com/posts/2015/09/09/how-to-create-a-responsive-layout-in-javafx/
 layout: post
 author: hendrik
 categories: [JavaFX, Layout & UI]

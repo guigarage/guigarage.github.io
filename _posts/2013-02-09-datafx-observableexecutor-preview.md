@@ -1,5 +1,6 @@
 ---
 title: 'DataFX: ObservableExecutor Preview'
+redirect_to: https://open-elements.com/posts/2013/02/09/datafx-observableexecutor-preview/
 layout: post
 author: hendrik
 categories: [DataFX, JavaFX]

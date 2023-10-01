@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://open-elements.com/posts/2020/03/13/about-cyberland/
 title:  'About Cyberland'
 author: hendrik
 featuredImage: cyberland-2

@@ -1,5 +1,6 @@
 ---
 title: 'New Desktop Application Framework & DataFX'
+redirect_to: https://open-elements.com/posts/2014/11/01/new-desktop-application-framework-datafx/
 layout: post
 author: hendrik
 categories: [DataFX, Desktop Application Framework (JSR 377), JavaFX]

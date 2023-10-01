@@ -1,5 +1,6 @@
 ---
 title: 'DataFX Controller Framework Preview'
+redirect_to: https://open-elements.com/posts/2013/12/27/datafx-controller-framework-preview/
 layout: post
 author: hendrik
 categories: [DataFX, General, JavaFX]

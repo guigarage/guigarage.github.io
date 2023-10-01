@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://open-elements.com/posts/2018/06/25/do-i-need-to-pay-for-java-now/
 title:  'Do I need to pay for Java now?'
 author: hendrik
 featuredImage: adopt-2

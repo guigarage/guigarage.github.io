@@ -1,5 +1,6 @@
 ---
 title: 'invokeAndWait for JavaFX'
+redirect_to: https://open-elements.com/posts/2013/01/01/invokeandwait-for-javafx/
 layout: post
 author: hendrik
 categories: [DataFX, General, JavaFX]

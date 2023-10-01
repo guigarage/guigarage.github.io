@@ -1,5 +1,6 @@
 ---
 title: 'More fun with layered icons in javaFX'
+redirect_to: https://open-elements.com/posts/2015/09/18/more-fun-with-layered-icons-in-javafx/
 layout: post
 author: hendrik
 categories: [JavaFX, Layout & UI]

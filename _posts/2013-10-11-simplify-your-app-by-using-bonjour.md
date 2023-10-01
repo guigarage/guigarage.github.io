@@ -1,5 +1,6 @@
 ---
 title: 'Simplify your app by using Bonjour'
+redirect_to: https://open-elements.com/posts/2013/10/11/simplify-your-app-by-using-bonjour/
 layout: post
 author: hendrik
 categories: [General]

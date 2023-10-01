@@ -1,5 +1,6 @@
 ---
 layout: post
+redirect_to: https://open-elements.com/posts/2018/11/23/amazon-corretto-announced/
 title:  'Amazon Corretto announced'
 author: hendrik
 featuredImage: java-5

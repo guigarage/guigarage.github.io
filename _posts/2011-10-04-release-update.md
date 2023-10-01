@@ -1,5 +1,6 @@
 ---
 title: 'Release & Update'
+redirect_to: https://open-elements.com/posts/2011/10/04/release-update/
 layout: post
 author: hendrik
 categories: [General]

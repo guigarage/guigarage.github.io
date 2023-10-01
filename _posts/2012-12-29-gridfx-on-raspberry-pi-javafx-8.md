@@ -1,5 +1,6 @@
 ---
 title: 'GridFX on Raspberry Pi & JavaFX 8'
+redirect_to: https://open-elements.com/posts/2012/12/29/gridfx-on-raspberry-pi-javafx-8/
 layout: post
 author: hendrik
 categories: [IoT, JavaFX]

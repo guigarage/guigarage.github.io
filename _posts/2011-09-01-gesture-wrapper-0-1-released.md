@@ -1,5 +1,6 @@
 ---
 title: 'Gesture Wrapper 0.1 released'
+redirect_to: https://open-elements.com/posts/2011/09/01/gesture-wrapper-0.1-released/
 layout: post
 author: hendrik
 categories: [General]

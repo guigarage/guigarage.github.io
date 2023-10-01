@@ -1,5 +1,6 @@
 ---
 title: 'Talk at CeBIT TV studio'
+redirect_to: https://open-elements.com/posts/2011/08/16/talk-at-cebit-tv-studio/
 layout: post
 author: hendrik
 categories: [General]

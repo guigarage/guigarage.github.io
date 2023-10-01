@@ -1,5 +1,6 @@
 ---
 title: 'DataFX 8 Preview 2: The ProcessChain'
+redirect_to: https://open-elements.com/posts/2014/01/23/datafx-8-preview-2-the-processchain/
 layout: post
 author: hendrik
 categories: [DataFX, JavaFX]

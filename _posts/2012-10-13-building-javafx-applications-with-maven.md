@@ -1,5 +1,6 @@
 ---
 title: 'Building JavaFX Applications with Maven'
+redirect_to: https://open-elements.com/posts/2012/10/13/building-javafx-applications-with-maven/
 layout: post
 author: hendrik
 categories: [JavaFX]

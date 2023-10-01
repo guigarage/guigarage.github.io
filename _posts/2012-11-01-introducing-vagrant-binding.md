@@ -1,5 +1,6 @@
 ---
 title: 'Introducing Vagrant-Binding'
+redirect_to: https://open-elements.com/posts/2012/11/01/introducing-vagrant-binding/
 layout: post
 author: hendrik
 categories: [General, Vagrant-Binding]

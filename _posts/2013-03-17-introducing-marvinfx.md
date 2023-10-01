@@ -1,5 +1,6 @@
 ---
 title: 'Introducing MarvinFx'
+redirect_to: https://open-elements.com/posts/2013/03/17/introducing-marvinfx/
 layout: post
 author: hendrik
 categories: [JavaFX]

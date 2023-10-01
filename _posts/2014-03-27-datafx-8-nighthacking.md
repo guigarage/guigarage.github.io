@@ -1,5 +1,6 @@
 ---
 title: 'DataFX 8 @ Nighthacking'
+redirect_to: https://open-elements.com/posts/2014/03/27/datafx-8-@-nighthacking/
 layout: post
 author: hendrik
 categories: [DataFX]

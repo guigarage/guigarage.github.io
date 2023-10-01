@@ -1,5 +1,6 @@
 ---
 title: 'Designing JavaFX Business Applications (Part 1)'
+redirect_to: https://open-elements.com/posts/2013/05/11/designing-javafx-business-applications-part-1/
 layout: post
 author: hendrik
 categories: [General]

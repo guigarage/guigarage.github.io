@@ -1,5 +1,6 @@
 ---
 title: 'AeroFX: It''s getting closer'
+redirect_to: https://open-elements.com/posts/2014/06/17/aerofx-its-getting-closer/
 layout: post
 author: hendrik
 categories: [AeroFX, JavaFX]

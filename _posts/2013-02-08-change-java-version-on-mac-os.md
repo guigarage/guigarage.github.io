@@ -1,5 +1,6 @@
 ---
 title: 'Change Java version on Mac OS'
+redirect_to: https://open-elements.com/posts/2013/02/08/change-java-version-on-mac-os/
 layout: post
 author: hendrik
 categories: [JavaFX]

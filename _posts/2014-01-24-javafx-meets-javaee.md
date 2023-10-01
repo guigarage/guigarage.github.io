@@ -1,5 +1,6 @@
 ---
 title: 'JavaFX meets JavaEE'
+redirect_to: https://open-elements.com/posts/2014/01/24/javafx-meets-javaee/
 layout: post
 author: hendrik
 categories: [DataFX]

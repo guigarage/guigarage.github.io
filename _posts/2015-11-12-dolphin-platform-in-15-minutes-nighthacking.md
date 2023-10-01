@@ -1,5 +1,6 @@
 ---
 title: 'Dolphin Platform in 15 minutes @ Nighthacking'
+redirect_to: https://open-elements.com/posts/2015/11/12/dolphin-platform-in-15-minutes-@-nighthacking/
 layout: post
 author: hendrik
 categories: [Dolphin Platform]
