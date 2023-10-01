@@ -13,6 +13,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 
 sass:
   style: compressed
