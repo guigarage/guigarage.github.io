@@ -15,6 +15,9 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
 
+whitelist:
+  - jekyll-redirect-from
+
 sass:
   style: compressed
 
