@@ -1,4 +1,5 @@
 ---
+redirect_to: https://open-elements.com/posts/2011/07/15/jgrid-@-netbeans-platform-certified-training/
 title: 'JGrid @ NetBeans Platform Certified Training'
 layout: post
 author: hendrik
